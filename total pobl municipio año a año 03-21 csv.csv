@@ -1,0 +1,4221 @@
+﻿municipio;year;Todas las edades
+        24002 Acebedo;2022;185
+        24003 Acebedo;2021;185
+        24004 Acebedo;2020;184
+        24005 Acebedo;2019;187
+        24006 Acebedo;2018;202
+        24007 Acebedo;2017;205
+        24008 Acebedo;2016;215
+        24009 Acebedo;2015;225
+        24010 Acebedo;2014;222
+        24011 Acebedo;2013;230
+        24012 Acebedo;2012;256
+        24013 Acebedo;2011;264
+        24014 Acebedo;2010;264
+        24015 Acebedo;2009;267
+        24016 Acebedo;2008;269
+        24017 Acebedo;2007;278
+        24018 Acebedo;2006;276
+        24019 Acebedo;2005;273
+        24020 Acebedo;2004;277
+        24021 Acebedo;2003;280
+        24002 Algadefe;2022;285
+        24003 Algadefe;2021;283
+        24004 Algadefe;2020;278
+        24005 Algadefe;2019;289
+        24006 Algadefe;2018;286
+        24007 Algadefe;2017;284
+        24008 Algadefe;2016;279
+        24009 Algadefe;2015;284
+        24010 Algadefe;2014;300
+        24011 Algadefe;2013;307
+        24012 Algadefe;2012;303
+        24013 Algadefe;2011;315
+        24014 Algadefe;2010;315
+        24015 Algadefe;2009;325
+        24016 Algadefe;2008;328
+        24017 Algadefe;2007;324
+        24018 Algadefe;2006;324
+        24019 Algadefe;2005;323
+        24020 Algadefe;2004;337
+        24021 Algadefe;2003;335
+        24003 Alija del Infantado;2022;569
+        24004 Alija del Infantado;2021;594
+        24005 Alija del Infantado;2020;629
+        24006 Alija del Infantado;2019;647
+        24007 Alija del Infantado;2018;671
+        24008 Alija del Infantado;2017;687
+        24009 Alija del Infantado;2016;696
+        24010 Alija del Infantado;2015;715
+        24011 Alija del Infantado;2014;758
+        24012 Alija del Infantado;2013;760
+        24013 Alija del Infantado;2012;798
+        24014 Alija del Infantado;2011;827
+        24015 Alija del Infantado;2010;843
+        24016 Alija del Infantado;2009;809
+        24017 Alija del Infantado;2008;860
+        24018 Alija del Infantado;2007;893
+        24019 Alija del Infantado;2006;900
+        24020 Alija del Infantado;2005;883
+        24021 Alija del Infantado;2004;905
+        24022 Alija del Infantado;2003;935
+        24004 Almanza;2022;603
+        24005 Almanza;2021;596
+        24006 Almanza;2020;581
+        24007 Almanza;2019;574
+        24008 Almanza;2018;558
+        24009 Almanza;2017;553
+        24010 Almanza;2016;563
+        24011 Almanza;2015;596
+        24012 Almanza;2014;580
+        24013 Almanza;2013;601
+        24014 Almanza;2012;623
+        24015 Almanza;2011;615
+        24016 Almanza;2010;609
+        24017 Almanza;2009;609
+        24018 Almanza;2008;640
+        24019 Almanza;2007;640
+        24020 Almanza;2006;664
+        24021 Almanza;2005;642
+        24022 Almanza;2004;666
+        24023 Almanza;2003;692
+        24005 Antigua, La;2022;333
+        24006 Antigua, La;2021;351
+        24007 Antigua, La;2020;358
+        24008 Antigua, La;2019;360
+        24009 Antigua, La;2018;377
+        24010 Antigua, La;2017;395
+        24011 Antigua, La;2016;403
+        24012 Antigua, La;2015;418
+        24013 Antigua, La;2014;430
+        24014 Antigua, La;2013;447
+        24015 Antigua, La;2012;455
+        24016 Antigua, La;2011;467
+        24017 Antigua, La;2010;483
+        24018 Antigua, La;2009;504
+        24019 Antigua, La;2008;513
+        24020 Antigua, La;2007;524
+        24021 Antigua, La;2006;543
+        24022 Antigua, La;2005;547
+        24023 Antigua, La;2004;557
+        24024 Antigua, La;2003;587
+        24006 Ardón;2022;569
+        24007 Ardón;2021;562
+        24008 Ardón;2020;560
+        24009 Ardón;2019;560
+        24010 Ardón;2018;533
+        24011 Ardón;2017;548
+        24012 Ardón;2016;563
+        24013 Ardón;2015;596
+        24014 Ardón;2014;611
+        24015 Ardón;2013;617
+        24016 Ardón;2012;614
+        24017 Ardón;2011;609
+        24018 Ardón;2010;613
+        24019 Ardón;2009;629
+        24020 Ardón;2008;643
+        24021 Ardón;2007;655
+        24022 Ardón;2006;657
+        24023 Ardón;2005;666
+        24024 Ardón;2004;659
+        24025 Ardón;2003;688
+        24007 Arganza;2022;778
+        24008 Arganza;2021;788
+        24009 Arganza;2020;774
+        24010 Arganza;2019;816
+        24011 Arganza;2018;802
+        24012 Arganza;2017;819
+        24013 Arganza;2016;858
+        24014 Arganza;2015;822
+        24015 Arganza;2014;881
+        24016 Arganza;2013;860
+        24017 Arganza;2012;850
+        24018 Arganza;2011;901
+        24019 Arganza;2010;944
+        24020 Arganza;2009;902
+        24021 Arganza;2008;824
+        24022 Arganza;2007;806
+        24023 Arganza;2006;803
+        24024 Arganza;2005;853
+        24025 Arganza;2004;883
+        24026 Arganza;2003;913
+        24008 Astorga;2022;10392
+        24009 Astorga;2021;10553
+        24010 Astorga;2020;10741
+        24011 Astorga;2019;10867
+        24012 Astorga;2018;11029
+        24013 Astorga;2017;11153
+        24014 Astorga;2016;11264
+        24015 Astorga;2015;11387
+        24016 Astorga;2014;11633
+        24017 Astorga;2013;11690
+        24018 Astorga;2012;11826
+        24019 Astorga;2011;11897
+        24020 Astorga;2010;12015
+        24021 Astorga;2009;12078
+        24022 Astorga;2008;12039
+        24023 Astorga;2007;12139
+        24024 Astorga;2006;12285
+        24025 Astorga;2005;12275
+        24026 Astorga;2004;12207
+        24027 Astorga;2003;12289
+        24009 Balboa;2022;271
+        24010 Balboa;2021;287
+        24011 Balboa;2020;292
+        24012 Balboa;2019;290
+        24013 Balboa;2018;308
+        24014 Balboa;2017;318
+        24015 Balboa;2016;322
+        24016 Balboa;2015;321
+        24017 Balboa;2014;337
+        24018 Balboa;2013;339
+        24019 Balboa;2012;357
+        24020 Balboa;2011;371
+        24021 Balboa;2010;398
+        24022 Balboa;2009;406
+        24023 Balboa;2008;407
+        24024 Balboa;2007;417
+        24025 Balboa;2006;404
+        24026 Balboa;2005;393
+        24027 Balboa;2004;409
+        24028 Balboa;2003;426
+        24010 Bañeza, La;2022;10024
+        24011 Bañeza, La;2021;10068
+        24012 Bañeza, La;2020;10290
+        24013 Bañeza, La;2019;10338
+        24014 Bañeza, La;2018;10307
+        24015 Bañeza, La;2017;10349
+        24016 Bañeza, La;2016;10450
+        24017 Bañeza, La;2015;10443
+        24018 Bañeza, La;2014;10595
+        24019 Bañeza, La;2013;10711
+        24020 Bañeza, La;2012;10843
+        24021 Bañeza, La;2011;10899
+        24022 Bañeza, La;2010;11050
+        24023 Bañeza, La;2009;11057
+        24024 Bañeza, La;2008;11040
+        24025 Bañeza, La;2007;10777
+        24026 Bañeza, La;2006;10549
+        24027 Bañeza, La;2005;10123
+        24028 Bañeza, La;2004;10117
+        24029 Bañeza, La;2003;10182
+        24011 Barjas;2022;157
+        24012 Barjas;2021;167
+        24013 Barjas;2020;172
+        24014 Barjas;2019;190
+        24015 Barjas;2018;194
+        24016 Barjas;2017;189
+        24017 Barjas;2016;198
+        24018 Barjas;2015;201
+        24019 Barjas;2014;203
+        24020 Barjas;2013;214
+        24021 Barjas;2012;232
+        24022 Barjas;2011;251
+        24023 Barjas;2010;261
+        24024 Barjas;2009;279
+        24025 Barjas;2008;292
+        24026 Barjas;2007;313
+        24027 Barjas;2006;326
+        24028 Barjas;2005;343
+        24029 Barjas;2004;365
+        24030 Barjas;2003;378
+        24012 Barrios de Luna, Los;2022;299
+        24013 Barrios de Luna, Los;2021;308
+        24014 Barrios de Luna, Los;2020;307
+        24015 Barrios de Luna, Los;2019;314
+        24016 Barrios de Luna, Los;2018;313
+        24017 Barrios de Luna, Los;2017;310
+        24018 Barrios de Luna, Los;2016;315
+        24019 Barrios de Luna, Los;2015;331
+        24020 Barrios de Luna, Los;2014;329
+        24021 Barrios de Luna, Los;2013;317
+        24022 Barrios de Luna, Los;2012;317
+        24023 Barrios de Luna, Los;2011;317
+        24024 Barrios de Luna, Los;2010;309
+        24025 Barrios de Luna, Los;2009;318
+        24026 Barrios de Luna, Los;2008;317
+        24027 Barrios de Luna, Los;2007;312
+        24028 Barrios de Luna, Los;2006;309
+        24029 Barrios de Luna, Los;2005;326
+        24030 Barrios de Luna, Los;2004;329
+        24031 Barrios de Luna, Los;2003;344
+        24014 Bembibre;2022;8279
+        24015 Bembibre;2021;8455
+        24016 Bembibre;2020;8598
+        24017 Bembibre;2019;8705
+        24018 Bembibre;2018;8979
+        24019 Bembibre;2017;9191
+        24020 Bembibre;2016;9356
+        24021 Bembibre;2015;9568
+        24022 Bembibre;2014;9631
+        24023 Bembibre;2013;9774
+        24024 Bembibre;2012;9929
+        24025 Bembibre;2011;10060
+        24026 Bembibre;2010;10097
+        24027 Bembibre;2009;10071
+        24028 Bembibre;2008;10136
+        24029 Bembibre;2007;10053
+        24030 Bembibre;2006;10092
+        24031 Bembibre;2005;10059
+        24032 Bembibre;2004;9989
+        24033 Bembibre;2003;10217
+        24015 Benavides;2022;2390
+        24016 Benavides;2021;2426
+        24017 Benavides;2020;2440
+        24018 Benavides;2019;2455
+        24019 Benavides;2018;2497
+        24020 Benavides;2017;2522
+        24021 Benavides;2016;2587
+        24022 Benavides;2015;2616
+        24023 Benavides;2014;2666
+        24024 Benavides;2013;2719
+        24025 Benavides;2012;2740
+        24026 Benavides;2011;2808
+        24027 Benavides;2010;2838
+        24028 Benavides;2009;2854
+        24029 Benavides;2008;2879
+        24030 Benavides;2007;2895
+        24031 Benavides;2006;2903
+        24032 Benavides;2005;2921
+        24033 Benavides;2004;2929
+        24034 Benavides;2003;2979
+        24016 Benuza;2022;464
+        24017 Benuza;2021;464
+        24018 Benuza;2020;482
+        24019 Benuza;2019;530
+        24020 Benuza;2018;489
+        24021 Benuza;2017;487
+        24022 Benuza;2016;503
+        24023 Benuza;2015;507
+        24024 Benuza;2014;515
+        24025 Benuza;2013;530
+        24026 Benuza;2012;549
+        24027 Benuza;2011;591
+        24028 Benuza;2010;601
+        24029 Benuza;2009;639
+        24030 Benuza;2008;672
+        24031 Benuza;2007;697
+        24032 Benuza;2006;667
+        24033 Benuza;2005;707
+        24034 Benuza;2004;738
+        24035 Benuza;2003;770
+        24017 Bercianos del Páramo;2022;528
+        24018 Bercianos del Páramo;2021;541
+        24019 Bercianos del Páramo;2020;554
+        24020 Bercianos del Páramo;2019;562
+        24021 Bercianos del Páramo;2018;580
+        24022 Bercianos del Páramo;2017;580
+        24023 Bercianos del Páramo;2016;605
+        24024 Bercianos del Páramo;2015;618
+        24025 Bercianos del Páramo;2014;637
+        24026 Bercianos del Páramo;2013;645
+        24027 Bercianos del Páramo;2012;661
+        24028 Bercianos del Páramo;2011;682
+        24029 Bercianos del Páramo;2010;713
+        24030 Bercianos del Páramo;2009;734
+        24031 Bercianos del Páramo;2008;742
+        24032 Bercianos del Páramo;2007;758
+        24033 Bercianos del Páramo;2006;779
+        24034 Bercianos del Páramo;2005;783
+        24035 Bercianos del Páramo;2004;769
+        24036 Bercianos del Páramo;2003;800
+        24018 Bercianos del Real Camino;2022;187
+        24019 Bercianos del Real Camino;2021;178
+        24020 Bercianos del Real Camino;2020;185
+        24021 Bercianos del Real Camino;2019;193
+        24022 Bercianos del Real Camino;2018;193
+        24023 Bercianos del Real Camino;2017;193
+        24024 Bercianos del Real Camino;2016;196
+        24025 Bercianos del Real Camino;2015;196
+        24026 Bercianos del Real Camino;2014;197
+        24027 Bercianos del Real Camino;2013;194
+        24028 Bercianos del Real Camino;2012;195
+        24029 Bercianos del Real Camino;2011;195
+        24030 Bercianos del Real Camino;2010;202
+        24031 Bercianos del Real Camino;2009;199
+        24032 Bercianos del Real Camino;2008;205
+        24033 Bercianos del Real Camino;2007;209
+        24034 Bercianos del Real Camino;2006;215
+        24035 Bercianos del Real Camino;2005;215
+        24036 Bercianos del Real Camino;2004;205
+        24037 Bercianos del Real Camino;2003;204
+        24019 Berlanga del Bierzo;2022;350
+        24020 Berlanga del Bierzo;2021;347
+        24021 Berlanga del Bierzo;2020;354
+        24022 Berlanga del Bierzo;2019;360
+        24023 Berlanga del Bierzo;2018;360
+        24024 Berlanga del Bierzo;2017;366
+        24025 Berlanga del Bierzo;2016;378
+        24026 Berlanga del Bierzo;2015;392
+        24027 Berlanga del Bierzo;2014;384
+        24028 Berlanga del Bierzo;2013;389
+        24029 Berlanga del Bierzo;2012;401
+        24030 Berlanga del Bierzo;2011;400
+        24031 Berlanga del Bierzo;2010;389
+        24032 Berlanga del Bierzo;2009;393
+        24033 Berlanga del Bierzo;2008;403
+        24034 Berlanga del Bierzo;2007;420
+        24035 Berlanga del Bierzo;2006;410
+        24036 Berlanga del Bierzo;2005;409
+        24037 Berlanga del Bierzo;2004;409
+        24038 Berlanga del Bierzo;2003;406
+        24020 Boca de Huérgano;2022;438
+        24021 Boca de Huérgano;2021;444
+        24022 Boca de Huérgano;2020;455
+        24023 Boca de Huérgano;2019;464
+        24024 Boca de Huérgano;2018;475
+        24025 Boca de Huérgano;2017;470
+        24026 Boca de Huérgano;2016;485
+        24027 Boca de Huérgano;2015;487
+        24028 Boca de Huérgano;2014;503
+        24029 Boca de Huérgano;2013;515
+        24030 Boca de Huérgano;2012;519
+        24031 Boca de Huérgano;2011;523
+        24032 Boca de Huérgano;2010;531
+        24033 Boca de Huérgano;2009;540
+        24034 Boca de Huérgano;2008;577
+        24035 Boca de Huérgano;2007;604
+        24036 Boca de Huérgano;2006;575
+        24037 Boca de Huérgano;2005;566
+        24038 Boca de Huérgano;2004;571
+        24039 Boca de Huérgano;2003;579
+        24021 Boñar;2022;1823
+        24022 Boñar;2021;1819
+        24023 Boñar;2020;1816
+        24024 Boñar;2019;1832
+        24025 Boñar;2018;1850
+        24026 Boñar;2017;1865
+        24027 Boñar;2016;1918
+        24028 Boñar;2015;1947
+        24029 Boñar;2014;1997
+        24030 Boñar;2013;2031
+        24031 Boñar;2012;2048
+        24032 Boñar;2011;2074
+        24033 Boñar;2010;2085
+        24034 Boñar;2009;2085
+        24035 Boñar;2008;2132
+        24036 Boñar;2007;2182
+        24037 Boñar;2006;2236
+        24038 Boñar;2005;2319
+        24039 Boñar;2004;2351
+        24040 Boñar;2003;2415
+        24022 Borrenes;2022;306
+        24023 Borrenes;2021;306
+        24024 Borrenes;2020;309
+        24025 Borrenes;2019;315
+        24026 Borrenes;2018;319
+        24027 Borrenes;2017;332
+        24028 Borrenes;2016;345
+        24029 Borrenes;2015;368
+        24030 Borrenes;2014;368
+        24031 Borrenes;2013;368
+        24032 Borrenes;2012;385
+        24033 Borrenes;2011;410
+        24034 Borrenes;2010;402
+        24035 Borrenes;2009;412
+        24036 Borrenes;2008;436
+        24037 Borrenes;2007;436
+        24038 Borrenes;2006;446
+        24039 Borrenes;2005;459
+        24040 Borrenes;2004;465
+        24041 Borrenes;2003;484
+        24023 Brazuelo;2022;340
+        24024 Brazuelo;2021;306
+        24025 Brazuelo;2020;337
+        24026 Brazuelo;2019;295
+        24027 Brazuelo;2018;287
+        24028 Brazuelo;2017;288
+        24029 Brazuelo;2016;300
+        24030 Brazuelo;2015;307
+        24031 Brazuelo;2014;311
+        24032 Brazuelo;2013;318
+        24033 Brazuelo;2012;334
+        24034 Brazuelo;2011;329
+        24035 Brazuelo;2010;321
+        24036 Brazuelo;2009;329
+        24037 Brazuelo;2008;347
+        24038 Brazuelo;2007;346
+        24039 Brazuelo;2006;347
+        24040 Brazuelo;2005;356
+        24041 Brazuelo;2004;340
+        24042 Brazuelo;2003;356
+        24024 Burgo Ranero, El;2022;697
+        24025 Burgo Ranero, El;2021;725
+        24026 Burgo Ranero, El;2020;702
+        24027 Burgo Ranero, El;2019;715
+        24028 Burgo Ranero, El;2018;733
+        24029 Burgo Ranero, El;2017;751
+        24030 Burgo Ranero, El;2016;764
+        24031 Burgo Ranero, El;2015;767
+        24032 Burgo Ranero, El;2014;779
+        24033 Burgo Ranero, El;2013;776
+        24034 Burgo Ranero, El;2012;794
+        24035 Burgo Ranero, El;2011;826
+        24036 Burgo Ranero, El;2010;841
+        24037 Burgo Ranero, El;2009;854
+        24038 Burgo Ranero, El;2008;876
+        24039 Burgo Ranero, El;2007;878
+        24040 Burgo Ranero, El;2006;893
+        24041 Burgo Ranero, El;2005;900
+        24042 Burgo Ranero, El;2004;894
+        24043 Burgo Ranero, El;2003;892
+        24025 Burón;2022;290
+        24026 Burón;2021;294
+        24027 Burón;2020;303
+        24028 Burón;2019;308
+        24029 Burón;2018;304
+        24030 Burón;2017;325
+        24031 Burón;2016;320
+        24032 Burón;2015;325
+        24033 Burón;2014;319
+        24034 Burón;2013;322
+        24035 Burón;2012;356
+        24036 Burón;2011;360
+        24037 Burón;2010;358
+        24038 Burón;2009;377
+        24039 Burón;2008;382
+        24040 Burón;2007;378
+        24041 Burón;2006;372
+        24042 Burón;2005;379
+        24043 Burón;2004;379
+        24044 Burón;2003;388
+        24026 Bustillo del Páramo;2022;1094
+        24027 Bustillo del Páramo;2021;1113
+        24028 Bustillo del Páramo;2020;1129
+        24029 Bustillo del Páramo;2019;1165
+        24030 Bustillo del Páramo;2018;1184
+        24031 Bustillo del Páramo;2017;1235
+        24032 Bustillo del Páramo;2016;1274
+        24033 Bustillo del Páramo;2015;1311
+        24034 Bustillo del Páramo;2014;1350
+        24035 Bustillo del Páramo;2013;1369
+        24036 Bustillo del Páramo;2012;1410
+        24037 Bustillo del Páramo;2011;1448
+        24038 Bustillo del Páramo;2010;1484
+        24039 Bustillo del Páramo;2009;1474
+        24040 Bustillo del Páramo;2008;1508
+        24041 Bustillo del Páramo;2007;1539
+        24042 Bustillo del Páramo;2006;1560
+        24043 Bustillo del Páramo;2005;1624
+        24044 Bustillo del Páramo;2004;1668
+        24045 Bustillo del Páramo;2003;1710
+        24027 Cabañas Raras;2022;1339
+        24028 Cabañas Raras;2021;1331
+        24029 Cabañas Raras;2020;1335
+        24030 Cabañas Raras;2019;1356
+        24031 Cabañas Raras;2018;1330
+        24032 Cabañas Raras;2017;1337
+        24033 Cabañas Raras;2016;1344
+        24034 Cabañas Raras;2015;1337
+        24035 Cabañas Raras;2014;1326
+        24036 Cabañas Raras;2013;1328
+        24037 Cabañas Raras;2012;1316
+        24038 Cabañas Raras;2011;1310
+        24039 Cabañas Raras;2010;1329
+        24040 Cabañas Raras;2009;1321
+        24041 Cabañas Raras;2008;1295
+        24042 Cabañas Raras;2007;1224
+        24043 Cabañas Raras;2006;1259
+        24044 Cabañas Raras;2005;1255
+        24045 Cabañas Raras;2004;1213
+        24046 Cabañas Raras;2003;1262
+        24028 Cabreros del Río;2022;403
+        24029 Cabreros del Río;2021;409
+        24030 Cabreros del Río;2020;417
+        24031 Cabreros del Río;2019;413
+        24032 Cabreros del Río;2018;412
+        24033 Cabreros del Río;2017;421
+        24034 Cabreros del Río;2016;429
+        24035 Cabreros del Río;2015;431
+        24036 Cabreros del Río;2014;437
+        24037 Cabreros del Río;2013;462
+        24038 Cabreros del Río;2012;460
+        24039 Cabreros del Río;2011;461
+        24040 Cabreros del Río;2010;481
+        24041 Cabreros del Río;2009;484
+        24042 Cabreros del Río;2008;497
+        24043 Cabreros del Río;2007;498
+        24044 Cabreros del Río;2006;497
+        24045 Cabreros del Río;2005;522
+        24046 Cabreros del Río;2004;523
+        24047 Cabreros del Río;2003;537
+        24029 Cabrillanes;2022;713
+        24030 Cabrillanes;2021;731
+        24031 Cabrillanes;2020;747
+        24032 Cabrillanes;2019;759
+        24033 Cabrillanes;2018;775
+        24034 Cabrillanes;2017;779
+        24035 Cabrillanes;2016;804
+        24036 Cabrillanes;2015;828
+        24037 Cabrillanes;2014;855
+        24038 Cabrillanes;2013;866
+        24039 Cabrillanes;2012;905
+        24040 Cabrillanes;2011;936
+        24041 Cabrillanes;2010;964
+        24042 Cabrillanes;2009;984
+        24043 Cabrillanes;2008;974
+        24044 Cabrillanes;2007;1019
+        24045 Cabrillanes;2006;973
+        24046 Cabrillanes;2005;986
+        24047 Cabrillanes;2004;1000
+        24048 Cabrillanes;2003;1038
+        24030 Cacabelos;2022;4874
+        24031 Cacabelos;2021;4888
+        24032 Cacabelos;2020;4996
+        24033 Cacabelos;2019;5118
+        24034 Cacabelos;2018;5132
+        24035 Cacabelos;2017;5152
+        24036 Cacabelos;2016;5264
+        24037 Cacabelos;2015;5318
+        24038 Cacabelos;2014;5337
+        24039 Cacabelos;2013;5459
+        24040 Cacabelos;2012;5506
+        24041 Cacabelos;2011;5495
+        24042 Cacabelos;2010;5498
+        24043 Cacabelos;2009;5534
+        24044 Cacabelos;2008;5477
+        24045 Cacabelos;2007;5350
+        24046 Cacabelos;2006;5236
+        24047 Cacabelos;2005;5215
+        24048 Cacabelos;2004;5064
+        24049 Cacabelos;2003;5001
+        24031 Calzada del Coto;2022;224
+        24032 Calzada del Coto;2021;217
+        24033 Calzada del Coto;2020;218
+        24034 Calzada del Coto;2019;223
+        24035 Calzada del Coto;2018;231
+        24036 Calzada del Coto;2017;241
+        24037 Calzada del Coto;2016;244
+        24038 Calzada del Coto;2015;253
+        24039 Calzada del Coto;2014;253
+        24040 Calzada del Coto;2013;260
+        24041 Calzada del Coto;2012;261
+        24042 Calzada del Coto;2011;259
+        24043 Calzada del Coto;2010;260
+        24044 Calzada del Coto;2009;265
+        24045 Calzada del Coto;2008;265
+        24046 Calzada del Coto;2007;281
+        24047 Calzada del Coto;2006;280
+        24048 Calzada del Coto;2005;289
+        24049 Calzada del Coto;2004;289
+        24050 Calzada del Coto;2003;295
+        24031 Campazas;2022;106
+        24032 Campazas;2021;113
+        24033 Campazas;2020;111
+        24034 Campazas;2019;119
+        24035 Campazas;2018;123
+        24036 Campazas;2017;121
+        24037 Campazas;2016;122
+        24038 Campazas;2015;139
+        24039 Campazas;2014;135
+        24040 Campazas;2013;139
+        24041 Campazas;2012;151
+        24042 Campazas;2011;146
+        24043 Campazas;2010;154
+        24044 Campazas;2009;155
+        24045 Campazas;2008;153
+        24046 Campazas;2007;155
+        24047 Campazas;2006;173
+        24048 Campazas;2005;166
+        24049 Campazas;2004;152
+        24050 Campazas;2003;151
+        24014 Campo de Villavidel;2022;201
+        24015 Campo de Villavidel;2021;211
+        24016 Campo de Villavidel;2020;212
+        24017 Campo de Villavidel;2019;209
+        24018 Campo de Villavidel;2018;203
+        24019 Campo de Villavidel;2017;205
+        24020 Campo de Villavidel;2016;208
+        24021 Campo de Villavidel;2015;212
+        24022 Campo de Villavidel;2014;207
+        24023 Campo de Villavidel;2013;209
+        24024 Campo de Villavidel;2012;210
+        24025 Campo de Villavidel;2011;216
+        24026 Campo de Villavidel;2010;227
+        24027 Campo de Villavidel;2009;242
+        24028 Campo de Villavidel;2008;254
+        24029 Campo de Villavidel;2007;250
+        24030 Campo de Villavidel;2006;265
+        24031 Campo de Villavidel;2005;280
+        24032 Campo de Villavidel;2004;289
+        24033 Campo de Villavidel;2003;307
+        24015 Camponaraya;2022;4109
+        24016 Camponaraya;2021;4105
+        24017 Camponaraya;2020;4097
+        24018 Camponaraya;2019;4096
+        24019 Camponaraya;2018;4062
+        24020 Camponaraya;2017;4072
+        24021 Camponaraya;2016;4096
+        24022 Camponaraya;2015;4086
+        24023 Camponaraya;2014;4131
+        24024 Camponaraya;2013;4194
+        24025 Camponaraya;2012;4220
+        24026 Camponaraya;2011;4241
+        24027 Camponaraya;2010;4230
+        24028 Camponaraya;2009;4246
+        24029 Camponaraya;2008;4222
+        24030 Camponaraya;2007;4035
+        24031 Camponaraya;2006;3859
+        24032 Camponaraya;2005;3664
+        24033 Camponaraya;2004;3411
+        24034 Camponaraya;2003;3290
+        24017 Valle de Ancares;2022;248
+        24018 Valle de Ancares;2021;255
+        24019 Valle de Ancares;2020;249
+        24020 Valle de Ancares;2019;274
+        24021 Valle de Ancares;2018;273
+        24022 Valle de Ancares;2017;283
+        24023 Valle de Ancares;2016;290
+        24024 Valle de Ancares;2015;297
+        24025 Valle de Ancares;2014;303
+        24026 Valle de Ancares;2013;320
+        24027 Valle de Ancares;2012;333
+        24028 Valle de Ancares;2011;339
+        24029 Valle de Ancares;2010;310
+        24030 Valle de Ancares;2009;325
+        24031 Valle de Ancares;2008;341
+        24032 Valle de Ancares;2007;361
+        24033 Valle de Ancares;2006;367
+        24034 Valle de Ancares;2005;381
+        24035 Valle de Ancares;2004;407
+        24036 Valle de Ancares;2003;425
+        24037 Cármenes;2022;329
+        24038 Cármenes;2021;335
+        24039 Cármenes;2020;344
+        24040 Cármenes;2019;352
+        24041 Cármenes;2018;357
+        24042 Cármenes;2017;363
+        24043 Cármenes;2016;378
+        24044 Cármenes;2015;396
+        24045 Cármenes;2014;401
+        24046 Cármenes;2013;407
+        24047 Cármenes;2012;437
+        24048 Cármenes;2011;448
+        24049 Cármenes;2010;397
+        24050 Cármenes;2009;403
+        24051 Cármenes;2008;417
+        24052 Cármenes;2007;419
+        24053 Cármenes;2006;410
+        24054 Cármenes;2005;401
+        24055 Cármenes;2004;425
+        24056 Cármenes;2003;421
+        24038 Carracedelo;2022;3434
+        24039 Carracedelo;2021;3403
+        24040 Carracedelo;2020;3364
+        24041 Carracedelo;2019;3425
+        24042 Carracedelo;2018;3472
+        24043 Carracedelo;2017;3500
+        24044 Carracedelo;2016;3523
+        24045 Carracedelo;2015;3575
+        24046 Carracedelo;2014;3630
+        24047 Carracedelo;2013;3636
+        24048 Carracedelo;2012;3680
+        24049 Carracedelo;2011;3686
+        24050 Carracedelo;2010;3658
+        24051 Carracedelo;2009;3712
+        24052 Carracedelo;2008;3657
+        24053 Carracedelo;2007;3614
+        24054 Carracedelo;2006;3561
+        24055 Carracedelo;2005;3548
+        24056 Carracedelo;2004;3518
+        24057 Carracedelo;2003;3556
+        24039 Carrizo;2022;2234
+        24040 Carrizo;2021;2266
+        24041 Carrizo;2020;2224
+        24042 Carrizo;2019;2228
+        24043 Carrizo;2018;2269
+        24044 Carrizo;2017;2278
+        24045 Carrizo;2016;2335
+        24046 Carrizo;2015;2357
+        24047 Carrizo;2014;2433
+        24048 Carrizo;2013;2481
+        24049 Carrizo;2012;2499
+        24050 Carrizo;2011;2521
+        24051 Carrizo;2010;2537
+        24052 Carrizo;2009;2518
+        24053 Carrizo;2008;2554
+        24054 Carrizo;2007;2615
+        24055 Carrizo;2006;2698
+        24056 Carrizo;2005;2695
+        24057 Carrizo;2004;2613
+        24058 Carrizo;2003;2639
+        24040 Carrocera;2022;458
+        24041 Carrocera;2021;452
+        24042 Carrocera;2020;446
+        24043 Carrocera;2019;451
+        24044 Carrocera;2018;465
+        24045 Carrocera;2017;479
+        24046 Carrocera;2016;501
+        24047 Carrocera;2015;514
+        24048 Carrocera;2014;524
+        24049 Carrocera;2013;545
+        24050 Carrocera;2012;565
+        24051 Carrocera;2011;548
+        24052 Carrocera;2010;555
+        24053 Carrocera;2009;561
+        24054 Carrocera;2008;574
+        24055 Carrocera;2007;587
+        24056 Carrocera;2006;589
+        24057 Carrocera;2005;580
+        24058 Carrocera;2004;574
+        24059 Carrocera;2003;591
+        24041 Carucedo;2022;501
+        24042 Carucedo;2021;511
+        24043 Carucedo;2020;531
+        24044 Carucedo;2019;562
+        24045 Carucedo;2018;557
+        24046 Carucedo;2017;555
+        24047 Carucedo;2016;574
+        24048 Carucedo;2015;583
+        24049 Carucedo;2014;603
+        24050 Carucedo;2013;618
+        24051 Carucedo;2012;655
+        24052 Carucedo;2011;642
+        24053 Carucedo;2010;642
+        24054 Carucedo;2009;656
+        24055 Carucedo;2008;646
+        24056 Carucedo;2007;689
+        24057 Carucedo;2006;634
+        24058 Carucedo;2005;644
+        24059 Carucedo;2004;649
+        24060 Carucedo;2003;661
+        24042 Castilfalé;2022;63
+        24043 Castilfalé;2021;65
+        24044 Castilfalé;2020;67
+        24045 Castilfalé;2019;69
+        24046 Castilfalé;2018;65
+        24047 Castilfalé;2017;68
+        24048 Castilfalé;2016;72
+        24049 Castilfalé;2015;71
+        24050 Castilfalé;2014;77
+        24051 Castilfalé;2013;77
+        24052 Castilfalé;2012;78
+        24053 Castilfalé;2011;84
+        24054 Castilfalé;2010;91
+        24055 Castilfalé;2009;89
+        24056 Castilfalé;2008;92
+        24057 Castilfalé;2007;88
+        24058 Castilfalé;2006;86
+        24059 Castilfalé;2005;84
+        24060 Castilfalé;2004;91
+        24061 Castilfalé;2003;98
+        24043 Castrillo de Cabrera;2022;106
+        24044 Castrillo de Cabrera;2021;108
+        24045 Castrillo de Cabrera;2020;111
+        24046 Castrillo de Cabrera;2019;119
+        24047 Castrillo de Cabrera;2018;122
+        24048 Castrillo de Cabrera;2017;129
+        24049 Castrillo de Cabrera;2016;134
+        24050 Castrillo de Cabrera;2015;134
+        24051 Castrillo de Cabrera;2014;133
+        24052 Castrillo de Cabrera;2013;134
+        24053 Castrillo de Cabrera;2012;141
+        24054 Castrillo de Cabrera;2011;152
+        24055 Castrillo de Cabrera;2010;152
+        24056 Castrillo de Cabrera;2009;165
+        24057 Castrillo de Cabrera;2008;174
+        24058 Castrillo de Cabrera;2007;188
+        24059 Castrillo de Cabrera;2006;172
+        24060 Castrillo de Cabrera;2005;162
+        24061 Castrillo de Cabrera;2004;165
+        24062 Castrillo de Cabrera;2003;178
+        24044 Castrillo de la Valduerna;2022;144
+        24045 Castrillo de la Valduerna;2021;149
+        24046 Castrillo de la Valduerna;2020;155
+        24047 Castrillo de la Valduerna;2019;158
+        24048 Castrillo de la Valduerna;2018;164
+        24049 Castrillo de la Valduerna;2017;171
+        24050 Castrillo de la Valduerna;2016;180
+        24051 Castrillo de la Valduerna;2015;183
+        24052 Castrillo de la Valduerna;2014;189
+        24053 Castrillo de la Valduerna;2013;187
+        24054 Castrillo de la Valduerna;2012;181
+        24055 Castrillo de la Valduerna;2011;185
+        24056 Castrillo de la Valduerna;2010;190
+        24057 Castrillo de la Valduerna;2009;192
+        24058 Castrillo de la Valduerna;2008;200
+        24059 Castrillo de la Valduerna;2007;202
+        24060 Castrillo de la Valduerna;2006;212
+        24061 Castrillo de la Valduerna;2005;205
+        24062 Castrillo de la Valduerna;2004;198
+        24063 Castrillo de la Valduerna;2003;210
+        24046 Castrocalbón;2022;931
+        24047 Castrocalbón;2021;940
+        24048 Castrocalbón;2020;938
+        24049 Castrocalbón;2019;964
+        24050 Castrocalbón;2018;979
+        24051 Castrocalbón;2017;1002
+        24052 Castrocalbón;2016;1021
+        24053 Castrocalbón;2015;1051
+        24054 Castrocalbón;2014;1050
+        24055 Castrocalbón;2013;1075
+        24056 Castrocalbón;2012;1037
+        24057 Castrocalbón;2011;1058
+        24058 Castrocalbón;2010;1081
+        24059 Castrocalbón;2009;1100
+        24060 Castrocalbón;2008;1144
+        24061 Castrocalbón;2007;1163
+        24062 Castrocalbón;2006;1196
+        24063 Castrocalbón;2005;1227
+        24064 Castrocalbón;2004;1254
+        24065 Castrocalbón;2003;1288
+        24047 Castrocontrigo;2022;701
+        24048 Castrocontrigo;2021;720
+        24049 Castrocontrigo;2020;725
+        24050 Castrocontrigo;2019;765
+        24051 Castrocontrigo;2018;794
+        24052 Castrocontrigo;2017;807
+        24053 Castrocontrigo;2016;823
+        24054 Castrocontrigo;2015;839
+        24055 Castrocontrigo;2014;847
+        24056 Castrocontrigo;2013;852
+        24057 Castrocontrigo;2012;895
+        24058 Castrocontrigo;2011;907
+        24059 Castrocontrigo;2010;917
+        24060 Castrocontrigo;2009;936
+        24061 Castrocontrigo;2008;968
+        24062 Castrocontrigo;2007;993
+        24063 Castrocontrigo;2006;1006
+        24064 Castrocontrigo;2005;1048
+        24065 Castrocontrigo;2004;1075
+        24066 Castrocontrigo;2003;1082
+        24049 Castropodame;2022;1577
+        24050 Castropodame;2021;1605
+        24051 Castropodame;2020;1629
+        24052 Castropodame;2019;1628
+        24053 Castropodame;2018;1658
+        24054 Castropodame;2017;1680
+        24055 Castropodame;2016;1714
+        24056 Castropodame;2015;1728
+        24057 Castropodame;2014;1753
+        24058 Castropodame;2013;1768
+        24059 Castropodame;2012;1805
+        24060 Castropodame;2011;1801
+        24061 Castropodame;2010;1812
+        24062 Castropodame;2009;1816
+        24063 Castropodame;2008;1834
+        24064 Castropodame;2007;1851
+        24065 Castropodame;2006;1861
+        24066 Castropodame;2005;1848
+        24067 Castropodame;2004;1854
+        24068 Castropodame;2003;1892
+        24050 Castrotierra de Valmadrigal;2022;109
+        24051 Castrotierra de Valmadrigal;2021;111
+        24052 Castrotierra de Valmadrigal;2020;114
+        24053 Castrotierra de Valmadrigal;2019;115
+        24054 Castrotierra de Valmadrigal;2018;113
+        24055 Castrotierra de Valmadrigal;2017;110
+        24056 Castrotierra de Valmadrigal;2016;111
+        24057 Castrotierra de Valmadrigal;2015;115
+        24058 Castrotierra de Valmadrigal;2014;114
+        24059 Castrotierra de Valmadrigal;2013;114
+        24060 Castrotierra de Valmadrigal;2012;116
+        24061 Castrotierra de Valmadrigal;2011;126
+        24062 Castrotierra de Valmadrigal;2010;124
+        24063 Castrotierra de Valmadrigal;2009;133
+        24064 Castrotierra de Valmadrigal;2008;135
+        24065 Castrotierra de Valmadrigal;2007;134
+        24066 Castrotierra de Valmadrigal;2006;135
+        24067 Castrotierra de Valmadrigal;2005;132
+        24068 Castrotierra de Valmadrigal;2004;142
+        24069 Castrotierra de Valmadrigal;2003;147
+        24051 Cea;2022;389
+        24052 Cea;2021;402
+        24053 Cea;2020;403
+        24054 Cea;2019;413
+        24055 Cea;2018;426
+        24056 Cea;2017;436
+        24057 Cea;2016;449
+        24058 Cea;2015;460
+        24059 Cea;2014;481
+        24060 Cea;2013;496
+        24061 Cea;2012;515
+        24062 Cea;2011;515
+        24063 Cea;2010;530
+        24064 Cea;2009;553
+        24065 Cea;2008;561
+        24066 Cea;2007;587
+        24067 Cea;2006;628
+        24068 Cea;2005;646
+        24069 Cea;2004;634
+        24070 Cea;2003;650
+        24052 Cebanico;2022;142
+        24053 Cebanico;2021;141
+        24054 Cebanico;2020;148
+        24055 Cebanico;2019;147
+        24056 Cebanico;2018;153
+        24057 Cebanico;2017;158
+        24058 Cebanico;2016;171
+        24059 Cebanico;2015;174
+        24060 Cebanico;2014;182
+        24061 Cebanico;2013;186
+        24062 Cebanico;2012;186
+        24063 Cebanico;2011;187
+        24064 Cebanico;2010;195
+        24065 Cebanico;2009;197
+        24066 Cebanico;2008;197
+        24067 Cebanico;2007;212
+        24068 Cebanico;2006;222
+        24069 Cebanico;2005;220
+        24070 Cebanico;2004;225
+        24071 Cebanico;2003;230
+        24053 Cebrones del Río;2022;437
+        24054 Cebrones del Río;2021;423
+        24055 Cebrones del Río;2020;439
+        24056 Cebrones del Río;2019;451
+        24057 Cebrones del Río;2018;461
+        24058 Cebrones del Río;2017;472
+        24059 Cebrones del Río;2016;490
+        24060 Cebrones del Río;2015;512
+        24061 Cebrones del Río;2014;532
+        24062 Cebrones del Río;2013;540
+        24063 Cebrones del Río;2012;546
+        24064 Cebrones del Río;2011;559
+        24065 Cebrones del Río;2010;560
+        24066 Cebrones del Río;2009;581
+        24067 Cebrones del Río;2008;593
+        24068 Cebrones del Río;2007;606
+        24069 Cebrones del Río;2006;630
+        24070 Cebrones del Río;2005;643
+        24071 Cebrones del Río;2004;642
+        24072 Cebrones del Río;2003;649
+        24065 Chozas de Abajo;2022;2625
+        24066 Chozas de Abajo;2021;2596
+        24067 Chozas de Abajo;2020;2561
+        24068 Chozas de Abajo;2019;2581
+        24069 Chozas de Abajo;2018;2564
+        24070 Chozas de Abajo;2017;2553
+        24071 Chozas de Abajo;2016;2528
+        24072 Chozas de Abajo;2015;2496
+        24073 Chozas de Abajo;2014;2449
+        24074 Chozas de Abajo;2013;2474
+        24075 Chozas de Abajo;2012;2415
+        24076 Chozas de Abajo;2011;2438
+        24077 Chozas de Abajo;2010;2424
+        24078 Chozas de Abajo;2009;2419
+        24079 Chozas de Abajo;2008;2388
+        24080 Chozas de Abajo;2007;2273
+        24081 Chozas de Abajo;2006;2170
+        24082 Chozas de Abajo;2005;2114
+        24083 Chozas de Abajo;2004;2001
+        24084 Chozas de Abajo;2003;2010
+        24054 Cimanes de la Vega;2022;453
+        24055 Cimanes de la Vega;2021;441
+        24056 Cimanes de la Vega;2020;449
+        24057 Cimanes de la Vega;2019;463
+        24058 Cimanes de la Vega;2018;472
+        24059 Cimanes de la Vega;2017;471
+        24060 Cimanes de la Vega;2016;482
+        24061 Cimanes de la Vega;2015;500
+        24062 Cimanes de la Vega;2014;497
+        24063 Cimanes de la Vega;2013;519
+        24064 Cimanes de la Vega;2012;549
+        24065 Cimanes de la Vega;2011;559
+        24066 Cimanes de la Vega;2010;569
+        24067 Cimanes de la Vega;2009;580
+        24068 Cimanes de la Vega;2008;582
+        24069 Cimanes de la Vega;2007;576
+        24070 Cimanes de la Vega;2006;586
+        24071 Cimanes de la Vega;2005;599
+        24072 Cimanes de la Vega;2004;625
+        24073 Cimanes de la Vega;2003;637
+        24055 Cimanes del Tejar;2022;744
+        24056 Cimanes del Tejar;2021;737
+        24057 Cimanes del Tejar;2020;719
+        24058 Cimanes del Tejar;2019;724
+        24059 Cimanes del Tejar;2018;740
+        24060 Cimanes del Tejar;2017;755
+        24061 Cimanes del Tejar;2016;755
+        24062 Cimanes del Tejar;2015;763
+        24063 Cimanes del Tejar;2014;776
+        24064 Cimanes del Tejar;2013;783
+        24065 Cimanes del Tejar;2012;804
+        24066 Cimanes del Tejar;2011;822
+        24067 Cimanes del Tejar;2010;825
+        24068 Cimanes del Tejar;2009;851
+        24069 Cimanes del Tejar;2008;857
+        24070 Cimanes del Tejar;2007;861
+        24071 Cimanes del Tejar;2006;877
+        24072 Cimanes del Tejar;2005;885
+        24073 Cimanes del Tejar;2004;904
+        24074 Cimanes del Tejar;2003;946
+        24056 Cistierna;2022;2986
+        24057 Cistierna;2021;3038
+        24058 Cistierna;2020;3090
+        24059 Cistierna;2019;3135
+        24060 Cistierna;2018;3150
+        24061 Cistierna;2017;3243
+        24062 Cistierna;2016;3290
+        24063 Cistierna;2015;3351
+        24064 Cistierna;2014;3489
+        24065 Cistierna;2013;3568
+        24066 Cistierna;2012;3652
+        24067 Cistierna;2011;3709
+        24068 Cistierna;2010;3720
+        24069 Cistierna;2009;3721
+        24070 Cistierna;2008;3778
+        24071 Cistierna;2007;3850
+        24072 Cistierna;2006;3750
+        24073 Cistierna;2005;3863
+        24074 Cistierna;2004;3972
+        24075 Cistierna;2003;4059
+        24057 Congosto;2022;1447
+        24058 Congosto;2021;1431
+        24059 Congosto;2020;1446
+        24060 Congosto;2019;1475
+        24061 Congosto;2018;1533
+        24062 Congosto;2017;1554
+        24063 Congosto;2016;1559
+        24064 Congosto;2015;1591
+        24065 Congosto;2014;1615
+        24066 Congosto;2013;1664
+        24067 Congosto;2012;1676
+        24068 Congosto;2011;1692
+        24069 Congosto;2010;1731
+        24070 Congosto;2009;1748
+        24071 Congosto;2008;1747
+        24072 Congosto;2007;1773
+        24073 Congosto;2006;1742
+        24074 Congosto;2005;1743
+        24075 Congosto;2004;1691
+        24076 Congosto;2003;1732
+        24058 Corbillos de los Oteros;2022;187
+        24059 Corbillos de los Oteros;2021;193
+        24060 Corbillos de los Oteros;2020;185
+        24061 Corbillos de los Oteros;2019;199
+        24062 Corbillos de los Oteros;2018;209
+        24063 Corbillos de los Oteros;2017;217
+        24064 Corbillos de los Oteros;2016;215
+        24065 Corbillos de los Oteros;2015;208
+        24066 Corbillos de los Oteros;2014;215
+        24067 Corbillos de los Oteros;2013;215
+        24068 Corbillos de los Oteros;2012;226
+        24069 Corbillos de los Oteros;2011;240
+        24070 Corbillos de los Oteros;2010;247
+        24071 Corbillos de los Oteros;2009;259
+        24072 Corbillos de los Oteros;2008;264
+        24073 Corbillos de los Oteros;2007;280
+        24074 Corbillos de los Oteros;2006;284
+        24075 Corbillos de los Oteros;2005;281
+        24076 Corbillos de los Oteros;2004;259
+        24077 Corbillos de los Oteros;2003;262
+        24059 Corullón;2022;858
+        24060 Corullón;2021;862
+        24061 Corullón;2020;887
+        24062 Corullón;2019;887
+        24063 Corullón;2018;914
+        24064 Corullón;2017;927
+        24065 Corullón;2016;937
+        24066 Corullón;2015;990
+        24067 Corullón;2014;1007
+        24068 Corullón;2013;1068
+        24069 Corullón;2012;1080
+        24070 Corullón;2011;1098
+        24071 Corullón;2010;1122
+        24072 Corullón;2009;1124
+        24073 Corullón;2008;1103
+        24074 Corullón;2007;1090
+        24075 Corullón;2006;1101
+        24076 Corullón;2005;1120
+        24077 Corullón;2004;1151
+        24078 Corullón;2003;1177
+        24060 Crémenes;2022;522
+        24061 Crémenes;2021;522
+        24062 Crémenes;2020;527
+        24063 Crémenes;2019;544
+        24064 Crémenes;2018;544
+        24065 Crémenes;2017;570
+        24066 Crémenes;2016;584
+        24067 Crémenes;2015;589
+        24068 Crémenes;2014;585
+        24069 Crémenes;2013;601
+        24070 Crémenes;2012;614
+        24071 Crémenes;2011;679
+        24072 Crémenes;2010;660
+        24073 Crémenes;2009;680
+        24074 Crémenes;2008;705
+        24075 Crémenes;2007;761
+        24076 Crémenes;2006;734
+        24077 Crémenes;2005;740
+        24078 Crémenes;2004;882
+        24079 Crémenes;2003;912
+        24061 Cuadros;2022;2049
+        24062 Cuadros;2021;2057
+        24063 Cuadros;2020;2035
+        24064 Cuadros;2019;2001
+        24065 Cuadros;2018;2018
+        24066 Cuadros;2017;1986
+        24067 Cuadros;2016;2000
+        24068 Cuadros;2015;1999
+        24069 Cuadros;2014;1998
+        24070 Cuadros;2013;2018
+        24071 Cuadros;2012;2010
+        24072 Cuadros;2011;2019
+        24073 Cuadros;2010;1980
+        24074 Cuadros;2009;1926
+        24075 Cuadros;2008;1926
+        24076 Cuadros;2007;1878
+        24077 Cuadros;2006;1854
+        24078 Cuadros;2005;1835
+        24079 Cuadros;2004;1780
+        24080 Cuadros;2003;1741
+        24062 Cubillas de los Oteros;2022;137
+        24063 Cubillas de los Oteros;2021;133
+        24064 Cubillas de los Oteros;2020;135
+        24065 Cubillas de los Oteros;2019;141
+        24066 Cubillas de los Oteros;2018;147
+        24067 Cubillas de los Oteros;2017;152
+        24068 Cubillas de los Oteros;2016;152
+        24069 Cubillas de los Oteros;2015;147
+        24070 Cubillas de los Oteros;2014;153
+        24071 Cubillas de los Oteros;2013;154
+        24072 Cubillas de los Oteros;2012;154
+        24073 Cubillas de los Oteros;2011;158
+        24074 Cubillas de los Oteros;2010;167
+        24075 Cubillas de los Oteros;2009;174
+        24076 Cubillas de los Oteros;2008;184
+        24077 Cubillas de los Oteros;2007;192
+        24078 Cubillas de los Oteros;2006;194
+        24079 Cubillas de los Oteros;2005;203
+        24080 Cubillas de los Oteros;2004;192
+        24081 Cubillas de los Oteros;2003;200
+        24063 Cubillas de Rueda;2022;388
+        24064 Cubillas de Rueda;2021;389
+        24065 Cubillas de Rueda;2020;409
+        24066 Cubillas de Rueda;2019;388
+        24067 Cubillas de Rueda;2018;404
+        24068 Cubillas de Rueda;2017;411
+        24069 Cubillas de Rueda;2016;435
+        24070 Cubillas de Rueda;2015;466
+        24071 Cubillas de Rueda;2014;475
+        24072 Cubillas de Rueda;2013;497
+        24073 Cubillas de Rueda;2012;512
+        24074 Cubillas de Rueda;2011;486
+        24075 Cubillas de Rueda;2010;501
+        24076 Cubillas de Rueda;2009;511
+        24077 Cubillas de Rueda;2008;529
+        24078 Cubillas de Rueda;2007;540
+        24079 Cubillas de Rueda;2006;548
+        24080 Cubillas de Rueda;2005;564
+        24081 Cubillas de Rueda;2004;594
+        24082 Cubillas de Rueda;2003;610
+        24064 Cubillos del Sil;2022;1789
+        24065 Cubillos del Sil;2021;1796
+        24066 Cubillos del Sil;2020;1768
+        24067 Cubillos del Sil;2019;1816
+        24068 Cubillos del Sil;2018;1839
+        24069 Cubillos del Sil;2017;1859
+        24070 Cubillos del Sil;2016;1813
+        24071 Cubillos del Sil;2015;1821
+        24072 Cubillos del Sil;2014;1851
+        24073 Cubillos del Sil;2013;1865
+        24074 Cubillos del Sil;2012;1852
+        24075 Cubillos del Sil;2011;1830
+        24076 Cubillos del Sil;2010;1771
+        24077 Cubillos del Sil;2009;1722
+        24078 Cubillos del Sil;2008;1656
+        24079 Cubillos del Sil;2007;1603
+        24080 Cubillos del Sil;2006;1523
+        24081 Cubillos del Sil;2005;1462
+        24082 Cubillos del Sil;2004;1445
+        24083 Cubillos del Sil;2003;1462
+        24066 Destriana;2022;438
+        24067 Destriana;2021;441
+        24068 Destriana;2020;459
+        24069 Destriana;2019;479
+        24070 Destriana;2018;495
+        24071 Destriana;2017;511
+        24072 Destriana;2016;523
+        24073 Destriana;2015;549
+        24074 Destriana;2014;562
+        24075 Destriana;2013;579
+        24076 Destriana;2012;597
+        24077 Destriana;2011;602
+        24078 Destriana;2010;615
+        24079 Destriana;2009;630
+        24080 Destriana;2008;637
+        24081 Destriana;2007;657
+        24082 Destriana;2006;679
+        24083 Destriana;2005;705
+        24084 Destriana;2004;736
+        24085 Destriana;2003;763
+        24067 Encinedo;2022;603
+        24068 Encinedo;2021;661
+        24069 Encinedo;2020;690
+        24070 Encinedo;2019;709
+        24071 Encinedo;2018;686
+        24072 Encinedo;2017;715
+        24073 Encinedo;2016;752
+        24074 Encinedo;2015;797
+        24075 Encinedo;2014;809
+        24076 Encinedo;2013;834
+        24077 Encinedo;2012;828
+        24078 Encinedo;2011;846
+        24079 Encinedo;2010;870
+        24080 Encinedo;2009;894
+        24081 Encinedo;2008;881
+        24082 Encinedo;2007;904
+        24083 Encinedo;2006;961
+        24084 Encinedo;2005;948
+        24085 Encinedo;2004;967
+        24086 Encinedo;2003;987
+        24068 Ercina, La;2022;440
+        24069 Ercina, La;2021;450
+        24070 Ercina, La;2020;441
+        24071 Ercina, La;2019;457
+        24072 Ercina, La;2018;462
+        24073 Ercina, La;2017;473
+        24074 Ercina, La;2016;478
+        24075 Ercina, La;2015;490
+        24076 Ercina, La;2014;501
+        24077 Ercina, La;2013;518
+        24078 Ercina, La;2012;537
+        24079 Ercina, La;2011;542
+        24080 Ercina, La;2010;561
+        24081 Ercina, La;2009;584
+        24082 Ercina, La;2008;599
+        24083 Ercina, La;2007;618
+        24084 Ercina, La;2006;625
+        24085 Ercina, La;2005;650
+        24086 Ercina, La;2004;681
+        24087 Ercina, La;2003;686
+        24069 Escobar de Campos;2022;31
+        24070 Escobar de Campos;2021;33
+        24071 Escobar de Campos;2020;34
+        24072 Escobar de Campos;2019;39
+        24073 Escobar de Campos;2018;42
+        24074 Escobar de Campos;2017;42
+        24075 Escobar de Campos;2016;42
+        24076 Escobar de Campos;2015;46
+        24077 Escobar de Campos;2014;48
+        24078 Escobar de Campos;2013;51
+        24079 Escobar de Campos;2012;52
+        24080 Escobar de Campos;2011;54
+        24081 Escobar de Campos;2010;56
+        24082 Escobar de Campos;2009;60
+        24083 Escobar de Campos;2008;64
+        24084 Escobar de Campos;2007;66
+        24085 Escobar de Campos;2006;69
+        24086 Escobar de Campos;2005;71
+        24087 Escobar de Campos;2004;74
+        24088 Escobar de Campos;2003;80
+        24070 Fabero;2022;4239
+        24071 Fabero;2021;4346
+        24072 Fabero;2020;4386
+        24073 Fabero;2019;4493
+        24074 Fabero;2018;4551
+        24075 Fabero;2017;4635
+        24076 Fabero;2016;4746
+        24077 Fabero;2015;4818
+        24078 Fabero;2014;4956
+        24079 Fabero;2013;5006
+        24080 Fabero;2012;5106
+        24081 Fabero;2011;5218
+        24082 Fabero;2010;5298
+        24083 Fabero;2009;5319
+        24084 Fabero;2008;5295
+        24085 Fabero;2007;5324
+        24086 Fabero;2006;5296
+        24087 Fabero;2005;5282
+        24088 Fabero;2004;5312
+        24089 Fabero;2003;5504
+        24071 Folgoso de la Ribera;2022;1026
+        24072 Folgoso de la Ribera;2021;1034
+        24073 Folgoso de la Ribera;2020;1045
+        24074 Folgoso de la Ribera;2019;1080
+        24075 Folgoso de la Ribera;2018;1108
+        24076 Folgoso de la Ribera;2017;1132
+        24077 Folgoso de la Ribera;2016;1142
+        24078 Folgoso de la Ribera;2015;1153
+        24079 Folgoso de la Ribera;2014;1182
+        24080 Folgoso de la Ribera;2013;1207
+        24081 Folgoso de la Ribera;2012;1226
+        24082 Folgoso de la Ribera;2011;1232
+        24083 Folgoso de la Ribera;2010;1233
+        24084 Folgoso de la Ribera;2009;1220
+        24085 Folgoso de la Ribera;2008;1230
+        24086 Folgoso de la Ribera;2007;1249
+        24087 Folgoso de la Ribera;2006;1266
+        24088 Folgoso de la Ribera;2005;1294
+        24089 Folgoso de la Ribera;2004;1285
+        24090 Folgoso de la Ribera;2003;1284
+        24073 Fresno de la Vega;2022;472
+        24074 Fresno de la Vega;2021;478
+        24075 Fresno de la Vega;2020;479
+        24076 Fresno de la Vega;2019;496
+        24077 Fresno de la Vega;2018;500
+        24078 Fresno de la Vega;2017;530
+        24079 Fresno de la Vega;2016;547
+        24080 Fresno de la Vega;2015;560
+        24081 Fresno de la Vega;2014;608
+        24082 Fresno de la Vega;2013;643
+        24083 Fresno de la Vega;2012;654
+        24084 Fresno de la Vega;2011;637
+        24085 Fresno de la Vega;2010;629
+        24086 Fresno de la Vega;2009;622
+        24087 Fresno de la Vega;2008;632
+        24088 Fresno de la Vega;2007;623
+        24089 Fresno de la Vega;2006;608
+        24090 Fresno de la Vega;2005;611
+        24091 Fresno de la Vega;2004;645
+        24092 Fresno de la Vega;2003;651
+        24074 Fuentes de Carbajal;2022;79
+        24075 Fuentes de Carbajal;2021;81
+        24076 Fuentes de Carbajal;2020;93
+        24077 Fuentes de Carbajal;2019;98
+        24078 Fuentes de Carbajal;2018;95
+        24079 Fuentes de Carbajal;2017;90
+        24080 Fuentes de Carbajal;2016;92
+        24081 Fuentes de Carbajal;2015;103
+        24082 Fuentes de Carbajal;2014;102
+        24083 Fuentes de Carbajal;2013;106
+        24084 Fuentes de Carbajal;2012;115
+        24085 Fuentes de Carbajal;2011;118
+        24086 Fuentes de Carbajal;2010;121
+        24087 Fuentes de Carbajal;2009;124
+        24088 Fuentes de Carbajal;2008;127
+        24089 Fuentes de Carbajal;2007;126
+        24090 Fuentes de Carbajal;2006;126
+        24091 Fuentes de Carbajal;2005;129
+        24092 Fuentes de Carbajal;2004;124
+        24093 Fuentes de Carbajal;2003;124
+        24076 Garrafe de Torío;2022;1580
+        24077 Garrafe de Torío;2021;1589
+        24078 Garrafe de Torío;2020;1513
+        24079 Garrafe de Torío;2019;1504
+        24080 Garrafe de Torío;2018;1475
+        24081 Garrafe de Torío;2017;1496
+        24082 Garrafe de Torío;2016;1480
+        24083 Garrafe de Torío;2015;1457
+        24084 Garrafe de Torío;2014;1409
+        24085 Garrafe de Torío;2013;1366
+        24086 Garrafe de Torío;2012;1374
+        24087 Garrafe de Torío;2011;1336
+        24088 Garrafe de Torío;2010;1267
+        24089 Garrafe de Torío;2009;1239
+        24090 Garrafe de Torío;2008;1234
+        24091 Garrafe de Torío;2007;1232
+        24092 Garrafe de Torío;2006;1200
+        24093 Garrafe de Torío;2005;1183
+        24094 Garrafe de Torío;2004;1150
+        24095 Garrafe de Torío;2003;1223
+        24077 Gordaliza del Pino;2022;244
+        24078 Gordaliza del Pino;2021;255
+        24079 Gordaliza del Pino;2020;245
+        24080 Gordaliza del Pino;2019;252
+        24081 Gordaliza del Pino;2018;244
+        24082 Gordaliza del Pino;2017;252
+        24083 Gordaliza del Pino;2016;268
+        24084 Gordaliza del Pino;2015;272
+        24085 Gordaliza del Pino;2014;269
+        24086 Gordaliza del Pino;2013;269
+        24087 Gordaliza del Pino;2012;283
+        24088 Gordaliza del Pino;2011;290
+        24089 Gordaliza del Pino;2010;304
+        24090 Gordaliza del Pino;2009;307
+        24091 Gordaliza del Pino;2008;312
+        24092 Gordaliza del Pino;2007;322
+        24093 Gordaliza del Pino;2006;322
+        24094 Gordaliza del Pino;2005;321
+        24095 Gordaliza del Pino;2004;315
+        24096 Gordaliza del Pino;2003;334
+        24078 Gordoncillo;2022;330
+        24079 Gordoncillo;2021;350
+        24080 Gordoncillo;2020;365
+        24081 Gordoncillo;2019;409
+        24082 Gordoncillo;2018;406
+        24083 Gordoncillo;2017;433
+        24084 Gordoncillo;2016;449
+        24085 Gordoncillo;2015;473
+        24086 Gordoncillo;2014;478
+        24087 Gordoncillo;2013;478
+        24088 Gordoncillo;2012;494
+        24089 Gordoncillo;2011;495
+        24090 Gordoncillo;2010;499
+        24091 Gordoncillo;2009;498
+        24092 Gordoncillo;2008;522
+        24093 Gordoncillo;2007;521
+        24094 Gordoncillo;2006;534
+        24095 Gordoncillo;2005;560
+        24096 Gordoncillo;2004;616
+        24097 Gordoncillo;2003;586
+        24079 Gradefes;2022;941
+        24080 Gradefes;2021;925
+        24081 Gradefes;2020;931
+        24082 Gradefes;2019;954
+        24083 Gradefes;2018;944
+        24084 Gradefes;2017;966
+        24085 Gradefes;2016;987
+        24086 Gradefes;2015;997
+        24087 Gradefes;2014;997
+        24088 Gradefes;2013;1028
+        24089 Gradefes;2012;1074
+        24090 Gradefes;2011;1118
+        24091 Gradefes;2010;1076
+        24092 Gradefes;2009;1092
+        24093 Gradefes;2008;1117
+        24094 Gradefes;2007;1145
+        24095 Gradefes;2006;1155
+        24096 Gradefes;2005;1166
+        24097 Gradefes;2004;1211
+        24098 Gradefes;2003;1255
+        24080 Grajal de Campos;2022;214
+        24081 Grajal de Campos;2021;205
+        24082 Grajal de Campos;2020;227
+        24083 Grajal de Campos;2019;227
+        24084 Grajal de Campos;2018;223
+        24085 Grajal de Campos;2017;234
+        24086 Grajal de Campos;2016;231
+        24087 Grajal de Campos;2015;242
+        24088 Grajal de Campos;2014;243
+        24089 Grajal de Campos;2013;249
+        24090 Grajal de Campos;2012;238
+        24091 Grajal de Campos;2011;254
+        24092 Grajal de Campos;2010;246
+        24093 Grajal de Campos;2009;245
+        24094 Grajal de Campos;2008;247
+        24095 Grajal de Campos;2007;254
+        24096 Grajal de Campos;2006;276
+        24097 Grajal de Campos;2005;288
+        24098 Grajal de Campos;2004;279
+        24099 Grajal de Campos;2003;284
+        24081 Gusendos de los Oteros;2022;126
+        24082 Gusendos de los Oteros;2021;127
+        24083 Gusendos de los Oteros;2020;126
+        24084 Gusendos de los Oteros;2019;124
+        24085 Gusendos de los Oteros;2018;128
+        24086 Gusendos de los Oteros;2017;138
+        24087 Gusendos de los Oteros;2016;147
+        24088 Gusendos de los Oteros;2015;148
+        24089 Gusendos de los Oteros;2014;149
+        24090 Gusendos de los Oteros;2013;137
+        24091 Gusendos de los Oteros;2012;142
+        24092 Gusendos de los Oteros;2011;150
+        24093 Gusendos de los Oteros;2010;139
+        24094 Gusendos de los Oteros;2009;146
+        24095 Gusendos de los Oteros;2008;156
+        24096 Gusendos de los Oteros;2007;166
+        24097 Gusendos de los Oteros;2006;170
+        24098 Gusendos de los Oteros;2005;178
+        24099 Gusendos de los Oteros;2004;180
+        24100 Gusendos de los Oteros;2003;189
+        24082 Hospital de Órbigo;2022;981
+        24083 Hospital de Órbigo;2021;977
+        24084 Hospital de Órbigo;2020;991
+        24085 Hospital de Órbigo;2019;998
+        24086 Hospital de Órbigo;2018;987
+        24087 Hospital de Órbigo;2017;976
+        24088 Hospital de Órbigo;2016;993
+        24089 Hospital de Órbigo;2015;995
+        24090 Hospital de Órbigo;2014;982
+        24091 Hospital de Órbigo;2013;1003
+        24092 Hospital de Órbigo;2012;1005
+        24093 Hospital de Órbigo;2011;1018
+        24094 Hospital de Órbigo;2010;1031
+        24095 Hospital de Órbigo;2009;1028
+        24096 Hospital de Órbigo;2008;1052
+        24097 Hospital de Órbigo;2007;1052
+        24098 Hospital de Órbigo;2006;1078
+        24099 Hospital de Órbigo;2005;1051
+        24100 Hospital de Órbigo;2004;1080
+        24101 Hospital de Órbigo;2003;1104
+        24083 Igüeña;2022;1108
+        24084 Igüeña;2021;1109
+        24085 Igüeña;2020;1123
+        24086 Igüeña;2019;1145
+        24087 Igüeña;2018;1142
+        24088 Igüeña;2017;1190
+        24089 Igüeña;2016;1213
+        24090 Igüeña;2015;1262
+        24091 Igüeña;2014;1298
+        24092 Igüeña;2013;1347
+        24093 Igüeña;2012;1356
+        24094 Igüeña;2011;1385
+        24095 Igüeña;2010;1424
+        24096 Igüeña;2009;1438
+        24097 Igüeña;2008;1489
+        24098 Igüeña;2007;1500
+        24099 Igüeña;2006;1557
+        24100 Igüeña;2005;1636
+        24101 Igüeña;2004;1702
+        24102 Igüeña;2003;1788
+        24084 Izagre;2022;146
+        24085 Izagre;2021;150
+        24086 Izagre;2020;161
+        24087 Izagre;2019;159
+        24088 Izagre;2018;174
+        24089 Izagre;2017;179
+        24090 Izagre;2016;174
+        24091 Izagre;2015;184
+        24092 Izagre;2014;193
+        24093 Izagre;2013;201
+        24094 Izagre;2012;204
+        24095 Izagre;2011;209
+        24096 Izagre;2010;214
+        24097 Izagre;2009;210
+        24098 Izagre;2008;216
+        24099 Izagre;2007;201
+        24100 Izagre;2006;233
+        24101 Izagre;2005;235
+        24102 Izagre;2004;226
+        24103 Izagre;2003;253
+        24086 Joarilla de las Matas;2022;259
+        24087 Joarilla de las Matas;2021;270
+        24088 Joarilla de las Matas;2020;279
+        24089 Joarilla de las Matas;2019;296
+        24090 Joarilla de las Matas;2018;298
+        24091 Joarilla de las Matas;2017;304
+        24092 Joarilla de las Matas;2016;303
+        24093 Joarilla de las Matas;2015;318
+        24094 Joarilla de las Matas;2014;329
+        24095 Joarilla de las Matas;2013;333
+        24096 Joarilla de las Matas;2012;354
+        24097 Joarilla de las Matas;2011;361
+        24098 Joarilla de las Matas;2010;366
+        24099 Joarilla de las Matas;2009;378
+        24100 Joarilla de las Matas;2008;386
+        24101 Joarilla de las Matas;2007;384
+        24102 Joarilla de las Matas;2006;381
+        24103 Joarilla de las Matas;2005;393
+        24104 Joarilla de las Matas;2004;410
+        24105 Joarilla de las Matas;2003;417
+        24087 Laguna Dalga;2022;633
+        24088 Laguna Dalga;2021;633
+        24089 Laguna Dalga;2020;640
+        24090 Laguna Dalga;2019;645
+        24091 Laguna Dalga;2018;666
+        24092 Laguna Dalga;2017;683
+        24093 Laguna Dalga;2016;697
+        24094 Laguna Dalga;2015;703
+        24095 Laguna Dalga;2014;707
+        24096 Laguna Dalga;2013;712
+        24097 Laguna Dalga;2012;725
+        24098 Laguna Dalga;2011;743
+        24099 Laguna Dalga;2010;741
+        24100 Laguna Dalga;2009;766
+        24101 Laguna Dalga;2008;771
+        24102 Laguna Dalga;2007;795
+        24103 Laguna Dalga;2006;833
+        24104 Laguna Dalga;2005;859
+        24105 Laguna Dalga;2004;867
+        24106 Laguna Dalga;2003;895
+        24088 Laguna de Negrillos;2022;1043
+        24089 Laguna de Negrillos;2021;1057
+        24090 Laguna de Negrillos;2020;1061
+        24091 Laguna de Negrillos;2019;1058
+        24092 Laguna de Negrillos;2018;1066
+        24093 Laguna de Negrillos;2017;1079
+        24094 Laguna de Negrillos;2016;1089
+        24095 Laguna de Negrillos;2015;1098
+        24096 Laguna de Negrillos;2014;1137
+        24097 Laguna de Negrillos;2013;1149
+        24098 Laguna de Negrillos;2012;1123
+        24099 Laguna de Negrillos;2011;1158
+        24100 Laguna de Negrillos;2010;1164
+        24101 Laguna de Negrillos;2009;1197
+        24102 Laguna de Negrillos;2008;1222
+        24103 Laguna de Negrillos;2007;1254
+        24104 Laguna de Negrillos;2006;1307
+        24105 Laguna de Negrillos;2005;1335
+        24106 Laguna de Negrillos;2004;1379
+        24107 Laguna de Negrillos;2003;1427
+        24089 León;2022;120951
+        24090 León;2021;122051
+        24091 León;2020;124028
+        24092 León;2019;124303
+        24093 León;2018;124772
+        24094 León;2017;125317
+        24095 León;2016;126192
+        24096 León;2015;127817
+        24097 León;2014;129551
+        24098 León;2013;130601
+        24099 León;2012;131680
+        24100 León;2011;132744
+        24101 León;2010;134012
+        24102 León;2009;134305
+        24103 León;2008;135119
+        24104 León;2007;135059
+        24105 León;2006;136985
+        24106 León;2005;136414
+        24107 León;2004;135789
+        24108 León;2003;135634
+        24092 Llamas de la Ribera;2022;810
+        24093 Llamas de la Ribera;2021;807
+        24094 Llamas de la Ribera;2020;800
+        24095 Llamas de la Ribera;2019;825
+        24096 Llamas de la Ribera;2018;831
+        24097 Llamas de la Ribera;2017;849
+        24098 Llamas de la Ribera;2016;869
+        24099 Llamas de la Ribera;2015;885
+        24100 Llamas de la Ribera;2014;916
+        24101 Llamas de la Ribera;2013;938
+        24102 Llamas de la Ribera;2012;963
+        24103 Llamas de la Ribera;2011;942
+        24104 Llamas de la Ribera;2010;970
+        24105 Llamas de la Ribera;2009;992
+        24106 Llamas de la Ribera;2008;1027
+        24107 Llamas de la Ribera;2007;1053
+        24108 Llamas de la Ribera;2006;1065
+        24109 Llamas de la Ribera;2005;1088
+        24110 Llamas de la Ribera;2004;1111
+        24111 Llamas de la Ribera;2003;1143
+        24090 Lucillo;2022;376
+        24091 Lucillo;2021;377
+        24092 Lucillo;2020;367
+        24093 Lucillo;2019;376
+        24094 Lucillo;2018;383
+        24095 Lucillo;2017;391
+        24096 Lucillo;2016;399
+        24097 Lucillo;2015;413
+        24098 Lucillo;2014;408
+        24099 Lucillo;2013;408
+        24100 Lucillo;2012;414
+        24101 Lucillo;2011;416
+        24102 Lucillo;2010;406
+        24103 Lucillo;2009;432
+        24104 Lucillo;2008;451
+        24105 Lucillo;2007;450
+        24106 Lucillo;2006;454
+        24107 Lucillo;2005;474
+        24108 Lucillo;2004;477
+        24109 Lucillo;2003;484
+        24091 Luyego;2022;562
+        24092 Luyego;2021;564
+        24093 Luyego;2020;590
+        24094 Luyego;2019;628
+        24095 Luyego;2018;645
+        24096 Luyego;2017;678
+        24097 Luyego;2016;692
+        24098 Luyego;2015;717
+        24099 Luyego;2014;740
+        24100 Luyego;2013;748
+        24101 Luyego;2012;747
+        24102 Luyego;2011;778
+        24103 Luyego;2010;780
+        24104 Luyego;2009;789
+        24105 Luyego;2008;803
+        24106 Luyego;2007;810
+        24107 Luyego;2006;828
+        24108 Luyego;2005;848
+        24109 Luyego;2004;887
+        24110 Luyego;2003;912
+        24093 Magaz de Cepeda;2022;357
+        24094 Magaz de Cepeda;2021;358
+        24095 Magaz de Cepeda;2020;367
+        24096 Magaz de Cepeda;2019;359
+        24097 Magaz de Cepeda;2018;362
+        24098 Magaz de Cepeda;2017;369
+        24099 Magaz de Cepeda;2016;370
+        24100 Magaz de Cepeda;2015;396
+        24101 Magaz de Cepeda;2014;384
+        24102 Magaz de Cepeda;2013;386
+        24103 Magaz de Cepeda;2012;397
+        24104 Magaz de Cepeda;2011;405
+        24105 Magaz de Cepeda;2010;412
+        24106 Magaz de Cepeda;2009;420
+        24107 Magaz de Cepeda;2008;427
+        24108 Magaz de Cepeda;2007;446
+        24109 Magaz de Cepeda;2006;449
+        24110 Magaz de Cepeda;2005;457
+        24111 Magaz de Cepeda;2004;467
+        24112 Magaz de Cepeda;2003;491
+        24094 Mansilla de las Mulas;2022;1679
+        24095 Mansilla de las Mulas;2021;1708
+        24096 Mansilla de las Mulas;2020;1743
+        24097 Mansilla de las Mulas;2019;1733
+        24098 Mansilla de las Mulas;2018;1743
+        24099 Mansilla de las Mulas;2017;1768
+        24100 Mansilla de las Mulas;2016;1798
+        24101 Mansilla de las Mulas;2015;1805
+        24102 Mansilla de las Mulas;2014;1859
+        24103 Mansilla de las Mulas;2013;1908
+        24104 Mansilla de las Mulas;2012;1922
+        24105 Mansilla de las Mulas;2011;1950
+        24106 Mansilla de las Mulas;2010;1913
+        24107 Mansilla de las Mulas;2009;1975
+        24108 Mansilla de las Mulas;2008;1963
+        24109 Mansilla de las Mulas;2007;1946
+        24110 Mansilla de las Mulas;2006;1973
+        24111 Mansilla de las Mulas;2005;1888
+        24112 Mansilla de las Mulas;2004;1811
+        24113 Mansilla de las Mulas;2003;1765
+        24095 Mansilla Mayor;2022;327
+        24096 Mansilla Mayor;2021;326
+        24097 Mansilla Mayor;2020;337
+        24098 Mansilla Mayor;2019;334
+        24099 Mansilla Mayor;2018;333
+        24100 Mansilla Mayor;2017;340
+        24101 Mansilla Mayor;2016;341
+        24102 Mansilla Mayor;2015;344
+        24103 Mansilla Mayor;2014;338
+        24104 Mansilla Mayor;2013;326
+        24105 Mansilla Mayor;2012;325
+        24106 Mansilla Mayor;2011;342
+        24107 Mansilla Mayor;2010;351
+        24108 Mansilla Mayor;2009;344
+        24109 Mansilla Mayor;2008;348
+        24110 Mansilla Mayor;2007;358
+        24111 Mansilla Mayor;2006;377
+        24112 Mansilla Mayor;2005;383
+        24113 Mansilla Mayor;2004;393
+        24114 Mansilla Mayor;2003;410
+        24096 Maraña;2022;112
+        24097 Maraña;2021;113
+        24098 Maraña;2020;112
+        24099 Maraña;2019;115
+        24100 Maraña;2018;118
+        24101 Maraña;2017;121
+        24102 Maraña;2016;128
+        24103 Maraña;2015;138
+        24104 Maraña;2014;145
+        24105 Maraña;2013;151
+        24106 Maraña;2012;162
+        24107 Maraña;2011;160
+        24108 Maraña;2010;147
+        24109 Maraña;2009;148
+        24110 Maraña;2008;149
+        24111 Maraña;2007;164
+        24112 Maraña;2006;155
+        24113 Maraña;2005;163
+        24114 Maraña;2004;169
+        24115 Maraña;2003;177
+        24097 Matadeón de los Oteros;2022;230
+        24098 Matadeón de los Oteros;2021;229
+        24099 Matadeón de los Oteros;2020;223
+        24100 Matadeón de los Oteros;2019;228
+        24101 Matadeón de los Oteros;2018;232
+        24102 Matadeón de los Oteros;2017;236
+        24103 Matadeón de los Oteros;2016;241
+        24104 Matadeón de los Oteros;2015;254
+        24105 Matadeón de los Oteros;2014;261
+        24106 Matadeón de los Oteros;2013;274
+        24107 Matadeón de los Oteros;2012;277
+        24108 Matadeón de los Oteros;2011;278
+        24109 Matadeón de los Oteros;2010;285
+        24110 Matadeón de los Oteros;2009;291
+        24111 Matadeón de los Oteros;2008;287
+        24112 Matadeón de los Oteros;2007;288
+        24113 Matadeón de los Oteros;2006;285
+        24114 Matadeón de los Oteros;2005;285
+        24115 Matadeón de los Oteros;2004;283
+        24116 Matadeón de los Oteros;2003;290
+        24098 Matallana de Torío;2022;1269
+        24099 Matallana de Torío;2021;1278
+        24100 Matallana de Torío;2020;1270
+        24101 Matallana de Torío;2019;1270
+        24102 Matallana de Torío;2018;1306
+        24103 Matallana de Torío;2017;1322
+        24104 Matallana de Torío;2016;1342
+        24105 Matallana de Torío;2015;1345
+        24106 Matallana de Torío;2014;1372
+        24107 Matallana de Torío;2013;1374
+        24108 Matallana de Torío;2012;1403
+        24109 Matallana de Torío;2011;1429
+        24110 Matallana de Torío;2010;1435
+        24111 Matallana de Torío;2009;1436
+        24112 Matallana de Torío;2008;1440
+        24113 Matallana de Torío;2007;1462
+        24114 Matallana de Torío;2006;1475
+        24115 Matallana de Torío;2005;1491
+        24116 Matallana de Torío;2004;1538
+        24117 Matallana de Torío;2003;1591
+        24099 Matanza;2022;175
+        24100 Matanza;2021;167
+        24101 Matanza;2020;161
+        24102 Matanza;2019;165
+        24103 Matanza;2018;175
+        24104 Matanza;2017;179
+        24105 Matanza;2016;185
+        24106 Matanza;2015;197
+        24107 Matanza;2014;207
+        24108 Matanza;2013;213
+        24109 Matanza;2012;232
+        24110 Matanza;2011;231
+        24111 Matanza;2010;242
+        24112 Matanza;2009;246
+        24113 Matanza;2008;259
+        24114 Matanza;2007;270
+        24115 Matanza;2006;269
+        24116 Matanza;2005;263
+        24117 Matanza;2004;258
+        24118 Matanza;2003;273
+        24100 Molinaseca;2022;851
+        24101 Molinaseca;2021;891
+        24102 Molinaseca;2020;862
+        24103 Molinaseca;2019;884
+        24104 Molinaseca;2018;872
+        24105 Molinaseca;2017;895
+        24106 Molinaseca;2016;888
+        24107 Molinaseca;2015;892
+        24108 Molinaseca;2014;898
+        24109 Molinaseca;2013;895
+        24110 Molinaseca;2012;886
+        24111 Molinaseca;2011;854
+        24112 Molinaseca;2010;818
+        24113 Molinaseca;2009;794
+        24114 Molinaseca;2008;825
+        24115 Molinaseca;2007;822
+        24116 Molinaseca;2006;796
+        24117 Molinaseca;2005;762
+        24118 Molinaseca;2004;750
+        24119 Molinaseca;2003;769
+        24101 Murias de Paredes;2022;346
+        24102 Murias de Paredes;2021;367
+        24103 Murias de Paredes;2020;371
+        24104 Murias de Paredes;2019;399
+        24105 Murias de Paredes;2018;395
+        24106 Murias de Paredes;2017;407
+        24107 Murias de Paredes;2016;412
+        24108 Murias de Paredes;2015;426
+        24109 Murias de Paredes;2014;444
+        24110 Murias de Paredes;2013;465
+        24111 Murias de Paredes;2012;483
+        24112 Murias de Paredes;2011;501
+        24113 Murias de Paredes;2010;498
+        24114 Murias de Paredes;2009;514
+        24115 Murias de Paredes;2008;530
+        24116 Murias de Paredes;2007;524
+        24117 Murias de Paredes;2006;543
+        24118 Murias de Paredes;2005;574
+        24119 Murias de Paredes;2004;580
+        24120 Murias de Paredes;2003;596
+        24102 Noceda del Bierzo;2022;612
+        24103 Noceda del Bierzo;2021;625
+        24104 Noceda del Bierzo;2020;640
+        24105 Noceda del Bierzo;2019;672
+        24106 Noceda del Bierzo;2018;680
+        24107 Noceda del Bierzo;2017;692
+        24108 Noceda del Bierzo;2016;723
+        24109 Noceda del Bierzo;2015;727
+        24110 Noceda del Bierzo;2014;730
+        24111 Noceda del Bierzo;2013;736
+        24112 Noceda del Bierzo;2012;760
+        24113 Noceda del Bierzo;2011;780
+        24114 Noceda del Bierzo;2010;774
+        24115 Noceda del Bierzo;2009;780
+        24116 Noceda del Bierzo;2008;809
+        24117 Noceda del Bierzo;2007;829
+        24118 Noceda del Bierzo;2006;810
+        24119 Noceda del Bierzo;2005;834
+        24120 Noceda del Bierzo;2004;855
+        24121 Noceda del Bierzo;2003;878
+        24103 Oencia;2022;267
+        24104 Oencia;2021;273
+        24105 Oencia;2020;270
+        24106 Oencia;2019;274
+        24107 Oencia;2018;278
+        24108 Oencia;2017;293
+        24109 Oencia;2016;295
+        24110 Oencia;2015;310
+        24111 Oencia;2014;329
+        24112 Oencia;2013;333
+        24113 Oencia;2012;349
+        24114 Oencia;2011;378
+        24115 Oencia;2010;373
+        24116 Oencia;2009;395
+        24117 Oencia;2008;428
+        24118 Oencia;2007;496
+        24119 Oencia;2006;457
+        24120 Oencia;2005;486
+        24121 Oencia;2004;531
+        24122 Oencia;2003;475
+        24104 Omañas, Las;2022;248
+        24105 Omañas, Las;2021;261
+        24106 Omañas, Las;2020;267
+        24107 Omañas, Las;2019;266
+        24108 Omañas, Las;2018;271
+        24109 Omañas, Las;2017;276
+        24110 Omañas, Las;2016;288
+        24111 Omañas, Las;2015;291
+        24112 Omañas, Las;2014;302
+        24113 Omañas, Las;2013;316
+        24114 Omañas, Las;2012;315
+        24115 Omañas, Las;2011;314
+        24116 Omañas, Las;2010;314
+        24117 Omañas, Las;2009;318
+        24118 Omañas, Las;2008;326
+        24119 Omañas, Las;2007;331
+        24120 Omañas, Las;2006;345
+        24121 Omañas, Las;2005;359
+        24122 Omañas, Las;2004;382
+        24123 Omañas, Las;2003;406
+        24105 Onzonilla;2022;1845
+        24106 Onzonilla;2021;1857
+        24107 Onzonilla;2020;1832
+        24108 Onzonilla;2019;1835
+        24109 Onzonilla;2018;1835
+        24110 Onzonilla;2017;1779
+        24111 Onzonilla;2016;1790
+        24112 Onzonilla;2015;1758
+        24113 Onzonilla;2014;1798
+        24114 Onzonilla;2013;1775
+        24115 Onzonilla;2012;1764
+        24116 Onzonilla;2011;1761
+        24117 Onzonilla;2010;1749
+        24118 Onzonilla;2009;1750
+        24119 Onzonilla;2008;1685
+        24120 Onzonilla;2007;1622
+        24121 Onzonilla;2006;1578
+        24122 Onzonilla;2005;1588
+        24123 Onzonilla;2004;1555
+        24124 Onzonilla;2003;1545
+        24106 Oseja de Sajambre;2022;236
+        24106 Oseja de Sajambre;2021;231
+        24107 Oseja de Sajambre;2020;224
+        24108 Oseja de Sajambre;2019;232
+        24109 Oseja de Sajambre;2018;240
+        24110 Oseja de Sajambre;2017;252
+        24111 Oseja de Sajambre;2016;257
+        24112 Oseja de Sajambre;2015;279
+        24113 Oseja de Sajambre;2014;284
+        24114 Oseja de Sajambre;2013;282
+        24115 Oseja de Sajambre;2012;312
+        24116 Oseja de Sajambre;2011;317
+        24117 Oseja de Sajambre;2010;275
+        24118 Oseja de Sajambre;2009;265
+        24119 Oseja de Sajambre;2008;289
+        24120 Oseja de Sajambre;2007;285
+        24121 Oseja de Sajambre;2006;290
+        24122 Oseja de Sajambre;2005;300
+        24123 Oseja de Sajambre;2004;323
+        24124 Oseja de Sajambre;2003;317
+        24107 Pajares de los Oteros;2022;235
+        24108 Pajares de los Oteros;2021;232
+        24109 Pajares de los Oteros;2020;248
+        24110 Pajares de los Oteros;2019;266
+        24111 Pajares de los Oteros;2018;279
+        24112 Pajares de los Oteros;2017;279
+        24113 Pajares de los Oteros;2016;283
+        24114 Pajares de los Oteros;2015;308
+        24115 Pajares de los Oteros;2014;316
+        24116 Pajares de los Oteros;2013;330
+        24117 Pajares de los Oteros;2012;362
+        24118 Pajares de los Oteros;2011;383
+        24119 Pajares de los Oteros;2010;350
+        24120 Pajares de los Oteros;2009;368
+        24121 Pajares de los Oteros;2008;385
+        24122 Pajares de los Oteros;2007;389
+        24123 Pajares de los Oteros;2006;340
+        24124 Pajares de los Oteros;2005;362
+        24125 Pajares de los Oteros;2004;376
+        24126 Pajares de los Oteros;2003;336
+        24108 Palacios de la Valduerna;2022;366
+        24109 Palacios de la Valduerna;2021;373
+        24110 Palacios de la Valduerna;2020;383
+        24111 Palacios de la Valduerna;2019;379
+        24112 Palacios de la Valduerna;2018;382
+        24113 Palacios de la Valduerna;2017;400
+        24114 Palacios de la Valduerna;2016;407
+        24115 Palacios de la Valduerna;2015;425
+        24116 Palacios de la Valduerna;2014;437
+        24117 Palacios de la Valduerna;2013;435
+        24118 Palacios de la Valduerna;2012;448
+        24119 Palacios de la Valduerna;2011;453
+        24120 Palacios de la Valduerna;2010;452
+        24121 Palacios de la Valduerna;2009;466
+        24122 Palacios de la Valduerna;2008;471
+        24123 Palacios de la Valduerna;2007;484
+        24124 Palacios de la Valduerna;2006;494
+        24125 Palacios de la Valduerna;2005;495
+        24126 Palacios de la Valduerna;2004;497
+        24127 Palacios de la Valduerna;2003;507
+        24109 Palacios del Sil;2022;886
+        24110 Palacios del Sil;2021;912
+        24111 Palacios del Sil;2020;907
+        24112 Palacios del Sil;2019;941
+        24113 Palacios del Sil;2018;989
+        24114 Palacios del Sil;2017;1030
+        24115 Palacios del Sil;2016;1062
+        24116 Palacios del Sil;2015;1090
+        24117 Palacios del Sil;2014;1095
+        24118 Palacios del Sil;2013;1139
+        24119 Palacios del Sil;2012;1159
+        24120 Palacios del Sil;2011;1202
+        24121 Palacios del Sil;2010;1193
+        24122 Palacios del Sil;2009;1225
+        24123 Palacios del Sil;2008;1261
+        24124 Palacios del Sil;2007;1275
+        24125 Palacios del Sil;2006;1301
+        24126 Palacios del Sil;2005;1339
+        24127 Palacios del Sil;2004;1373
+        24128 Palacios del Sil;2003;1413
+        24110 Páramo del Sil;2022;1217
+        24111 Páramo del Sil;2021;1244
+        24112 Páramo del Sil;2020;1255
+        24113 Páramo del Sil;2019;1259
+        24114 Páramo del Sil;2018;1293
+        24115 Páramo del Sil;2017;1336
+        24116 Páramo del Sil;2016;1381
+        24117 Páramo del Sil;2015;1403
+        24118 Páramo del Sil;2014;1395
+        24119 Páramo del Sil;2013;1414
+        24120 Páramo del Sil;2012;1421
+        24121 Páramo del Sil;2011;1464
+        24122 Páramo del Sil;2010;1499
+        24123 Páramo del Sil;2009;1527
+        24124 Páramo del Sil;2008;1522
+        24125 Páramo del Sil;2007;1550
+        24126 Páramo del Sil;2006;1557
+        24127 Páramo del Sil;2005;1534
+        24128 Páramo del Sil;2004;1580
+        24129 Páramo del Sil;2003;1638
+        24112 Peranzanes;2022;264
+        24113 Peranzanes;2021;269
+        24114 Peranzanes;2020;279
+        24115 Peranzanes;2019;300
+        24116 Peranzanes;2018;317
+        24117 Peranzanes;2017;321
+        24118 Peranzanes;2016;320
+        24119 Peranzanes;2015;327
+        24120 Peranzanes;2014;320
+        24121 Peranzanes;2013;324
+        24122 Peranzanes;2012;332
+        24123 Peranzanes;2011;345
+        24124 Peranzanes;2010;316
+        24125 Peranzanes;2009;305
+        24126 Peranzanes;2008;310
+        24127 Peranzanes;2007;319
+        24128 Peranzanes;2006;314
+        24129 Peranzanes;2005;316
+        24130 Peranzanes;2004;329
+        24131 Peranzanes;2003;327
+        24113 Pobladura de Pelayo García;2022;372
+        24114 Pobladura de Pelayo García;2021;388
+        24115 Pobladura de Pelayo García;2020;379
+        24116 Pobladura de Pelayo García;2019;373
+        24117 Pobladura de Pelayo García;2018;382
+        24118 Pobladura de Pelayo García;2017;379
+        24119 Pobladura de Pelayo García;2016;385
+        24120 Pobladura de Pelayo García;2015;396
+        24121 Pobladura de Pelayo García;2014;401
+        24122 Pobladura de Pelayo García;2013;422
+        24123 Pobladura de Pelayo García;2012;426
+        24124 Pobladura de Pelayo García;2011;436
+        24125 Pobladura de Pelayo García;2010;457
+        24126 Pobladura de Pelayo García;2009;472
+        24127 Pobladura de Pelayo García;2008;479
+        24128 Pobladura de Pelayo García;2007;502
+        24129 Pobladura de Pelayo García;2006;509
+        24130 Pobladura de Pelayo García;2005;521
+        24131 Pobladura de Pelayo García;2004;530
+        24132 Pobladura de Pelayo García;2003;524
+        24114 Pola de Gordón, La;2022;2929
+        24115 Pola de Gordón, La;2021;3060
+        24116 Pola de Gordón, La;2020;3120
+        24117 Pola de Gordón, La;2019;3224
+        24118 Pola de Gordón, La;2018;3325
+        24119 Pola de Gordón, La;2017;3379
+        24120 Pola de Gordón, La;2016;3488
+        24121 Pola de Gordón, La;2015;3522
+        24122 Pola de Gordón, La;2014;3653
+        24123 Pola de Gordón, La;2013;3823
+        24124 Pola de Gordón, La;2012;3905
+        24125 Pola de Gordón, La;2011;3989
+        24126 Pola de Gordón, La;2010;3969
+        24127 Pola de Gordón, La;2009;4077
+        24128 Pola de Gordón, La;2008;4142
+        24129 Pola de Gordón, La;2007;4170
+        24130 Pola de Gordón, La;2006;4220
+        24131 Pola de Gordón, La;2005;4333
+        24132 Pola de Gordón, La;2004;4422
+        24133 Pola de Gordón, La;2003;4656
+        24115 Ponferrada;2022;63052
+        24116 Ponferrada;2021;63747
+        24117 Ponferrada;2020;64509
+        24118 Ponferrada;2019;64674
+        24119 Ponferrada;2018;65239
+        24120 Ponferrada;2017;65788
+        24121 Ponferrada;2016;66447
+        24122 Ponferrada;2015;66884
+        24123 Ponferrada;2014;67367
+        24124 Ponferrada;2013;68121
+        24125 Ponferrada;2012;68549
+        24126 Ponferrada;2011;68508
+        24127 Ponferrada;2010;68767
+        24128 Ponferrada;2009;68736
+        24129 Ponferrada;2008;67969
+        24130 Ponferrada;2007;66824
+        24131 Ponferrada;2006;66656
+        24132 Ponferrada;2005;65984
+        24133 Ponferrada;2004;65111
+        24134 Ponferrada;2003;64990
+        24116 Posada de Valdeón;2022;420
+        24116 Posada de Valdeón;2021;424
+        24116 Posada de Valdeón;2020;415
+        24116 Posada de Valdeón;2019;415
+        24116 Posada de Valdeón;2018;433
+        24116 Posada de Valdeón;2017;452
+        24116 Posada de Valdeón;2016;457
+        24116 Posada de Valdeón;2015;477
+        24116 Posada de Valdeón;2014;464
+        24116 Posada de Valdeón;2013;481
+        24116 Posada de Valdeón;2012;485
+        24116 Posada de Valdeón;2011;491
+        24116 Posada de Valdeón;2010;487
+        24116 Posada de Valdeón;2009;514
+        24116 Posada de Valdeón;2008;524
+        24116 Posada de Valdeón;2007;543
+        24116 Posada de Valdeón;2006;526
+        24116 Posada de Valdeón;2005;536
+        24116 Posada de Valdeón;2004;507
+        24116 Posada de Valdeón;2003;515
+        24117 Pozuelo del Páramo;2022;408
+        24118 Pozuelo del Páramo;2021;404
+        24119 Pozuelo del Páramo;2020;423
+        24120 Pozuelo del Páramo;2019;431
+        24121 Pozuelo del Páramo;2018;439
+        24122 Pozuelo del Páramo;2017;455
+        24123 Pozuelo del Páramo;2016;465
+        24124 Pozuelo del Páramo;2015;478
+        24125 Pozuelo del Páramo;2014;493
+        24126 Pozuelo del Páramo;2013;510
+        24127 Pozuelo del Páramo;2012;519
+        24128 Pozuelo del Páramo;2011;516
+        24129 Pozuelo del Páramo;2010;519
+        24130 Pozuelo del Páramo;2009;505
+        24131 Pozuelo del Páramo;2008;535
+        24132 Pozuelo del Páramo;2007;538
+        24133 Pozuelo del Páramo;2006;556
+        24134 Pozuelo del Páramo;2005;540
+        24135 Pozuelo del Páramo;2004;559
+        24136 Pozuelo del Páramo;2003;585
+        24118 Prado de la Guzpeña;2022;103
+        24119 Prado de la Guzpeña;2021;99
+        24120 Prado de la Guzpeña;2020;104
+        24121 Prado de la Guzpeña;2019;107
+        24122 Prado de la Guzpeña;2018;122
+        24123 Prado de la Guzpeña;2017;123
+        24124 Prado de la Guzpeña;2016;135
+        24125 Prado de la Guzpeña;2015;140
+        24126 Prado de la Guzpeña;2014;143
+        24127 Prado de la Guzpeña;2013;136
+        24128 Prado de la Guzpeña;2012;138
+        24129 Prado de la Guzpeña;2011;141
+        24130 Prado de la Guzpeña;2010;131
+        24131 Prado de la Guzpeña;2009;138
+        24132 Prado de la Guzpeña;2008;140
+        24133 Prado de la Guzpeña;2007;140
+        24134 Prado de la Guzpeña;2006;133
+        24135 Prado de la Guzpeña;2005;136
+        24136 Prado de la Guzpeña;2004;138
+        24137 Prado de la Guzpeña;2003;148
+        24119 Priaranza del Bierzo;2022;742
+        24120 Priaranza del Bierzo;2021;754
+        24121 Priaranza del Bierzo;2020;773
+        24122 Priaranza del Bierzo;2019;788
+        24123 Priaranza del Bierzo;2018;793
+        24124 Priaranza del Bierzo;2017;785
+        24125 Priaranza del Bierzo;2016;785
+        24126 Priaranza del Bierzo;2015;802
+        24127 Priaranza del Bierzo;2014;832
+        24128 Priaranza del Bierzo;2013;828
+        24129 Priaranza del Bierzo;2012;828
+        24130 Priaranza del Bierzo;2011;841
+        24131 Priaranza del Bierzo;2010;858
+        24132 Priaranza del Bierzo;2009;866
+        24133 Priaranza del Bierzo;2008;898
+        24134 Priaranza del Bierzo;2007;914
+        24135 Priaranza del Bierzo;2006;918
+        24136 Priaranza del Bierzo;2005;903
+        24137 Priaranza del Bierzo;2004;865
+        24138 Priaranza del Bierzo;2003;889
+        24120 Prioro;2022;335
+        24121 Prioro;2021;337
+        24122 Prioro;2020;332
+        24123 Prioro;2019;340
+        24124 Prioro;2018;355
+        24125 Prioro;2017;374
+        24126 Prioro;2016;369
+        24127 Prioro;2015;376
+        24128 Prioro;2014;378
+        24129 Prioro;2013;396
+        24130 Prioro;2012;404
+        24131 Prioro;2011;405
+        24132 Prioro;2010;418
+        24133 Prioro;2009;415
+        24134 Prioro;2008;422
+        24135 Prioro;2007;420
+        24136 Prioro;2006;414
+        24137 Prioro;2005;433
+        24138 Prioro;2004;437
+        24139 Prioro;2003;441
+        24121 Puebla de Lillo;2022;666
+        24122 Puebla de Lillo;2021;672
+        24123 Puebla de Lillo;2020;652
+        24124 Puebla de Lillo;2019;681
+        24125 Puebla de Lillo;2018;671
+        24126 Puebla de Lillo;2017;693
+        24127 Puebla de Lillo;2016;699
+        24128 Puebla de Lillo;2015;715
+        24129 Puebla de Lillo;2014;694
+        24130 Puebla de Lillo;2013;688
+        24131 Puebla de Lillo;2012;704
+        24132 Puebla de Lillo;2011;710
+        24133 Puebla de Lillo;2010;682
+        24134 Puebla de Lillo;2009;691
+        24135 Puebla de Lillo;2008;709
+        24136 Puebla de Lillo;2007;724
+        24137 Puebla de Lillo;2006;631
+        24138 Puebla de Lillo;2005;661
+        24139 Puebla de Lillo;2004;696
+        24140 Puebla de Lillo;2003;727
+        24122 Puente de Domingo Flórez;2022;1421
+        24123 Puente de Domingo Flórez;2021;1438
+        24124 Puente de Domingo Flórez;2020;1458
+        24125 Puente de Domingo Flórez;2019;1500
+        24126 Puente de Domingo Flórez;2018;1511
+        24127 Puente de Domingo Flórez;2017;1533
+        24128 Puente de Domingo Flórez;2016;1542
+        24129 Puente de Domingo Flórez;2015;1574
+        24130 Puente de Domingo Flórez;2014;1537
+        24131 Puente de Domingo Flórez;2013;1565
+        24132 Puente de Domingo Flórez;2012;1633
+        24133 Puente de Domingo Flórez;2011;1655
+        24134 Puente de Domingo Flórez;2010;1697
+        24135 Puente de Domingo Flórez;2009;1745
+        24136 Puente de Domingo Flórez;2008;1790
+        24137 Puente de Domingo Flórez;2007;1819
+        24138 Puente de Domingo Flórez;2006;1850
+        24139 Puente de Domingo Flórez;2005;1869
+        24140 Puente de Domingo Flórez;2004;1852
+        24141 Puente de Domingo Flórez;2003;1873
+        24123 Quintana del Castillo;2022;709
+        24124 Quintana del Castillo;2021;718
+        24125 Quintana del Castillo;2020;721
+        24126 Quintana del Castillo;2019;735
+        24127 Quintana del Castillo;2018;748
+        24128 Quintana del Castillo;2017;773
+        24129 Quintana del Castillo;2016;786
+        24130 Quintana del Castillo;2015;810
+        24131 Quintana del Castillo;2014;768
+        24132 Quintana del Castillo;2013;796
+        24133 Quintana del Castillo;2012;869
+        24134 Quintana del Castillo;2011;881
+        24135 Quintana del Castillo;2010;909
+        24136 Quintana del Castillo;2009;925
+        24137 Quintana del Castillo;2008;954
+        24138 Quintana del Castillo;2007;953
+        24139 Quintana del Castillo;2006;958
+        24140 Quintana del Castillo;2005;1006
+        24141 Quintana del Castillo;2004;1043
+        24142 Quintana del Castillo;2003;1074
+        24124 Quintana del Marco;2022;353
+        24125 Quintana del Marco;2021;356
+        24126 Quintana del Marco;2020;353
+        24127 Quintana del Marco;2019;362
+        24128 Quintana del Marco;2018;381
+        24129 Quintana del Marco;2017;388
+        24130 Quintana del Marco;2016;390
+        24131 Quintana del Marco;2015;407
+        24132 Quintana del Marco;2014;428
+        24133 Quintana del Marco;2013;439
+        24134 Quintana del Marco;2012;450
+        24135 Quintana del Marco;2011;444
+        24136 Quintana del Marco;2010;444
+        24137 Quintana del Marco;2009;450
+        24138 Quintana del Marco;2008;466
+        24139 Quintana del Marco;2007;497
+        24140 Quintana del Marco;2006;503
+        24141 Quintana del Marco;2005;505
+        24142 Quintana del Marco;2004;516
+        24143 Quintana del Marco;2003;531
+        24125 Quintana y Congosto;2022;398
+        24126 Quintana y Congosto;2021;411
+        24127 Quintana y Congosto;2020;375
+        24128 Quintana y Congosto;2019;351
+        24129 Quintana y Congosto;2018;354
+        24130 Quintana y Congosto;2017;343
+        24131 Quintana y Congosto;2016;358
+        24132 Quintana y Congosto;2015;372
+        24133 Quintana y Congosto;2014;396
+        24134 Quintana y Congosto;2013;410
+        24135 Quintana y Congosto;2012;484
+        24136 Quintana y Congosto;2011;509
+        24137 Quintana y Congosto;2010;540
+        24138 Quintana y Congosto;2009;567
+        24139 Quintana y Congosto;2008;583
+        24140 Quintana y Congosto;2007;608
+        24141 Quintana y Congosto;2006;657
+        24142 Quintana y Congosto;2005;678
+        24143 Quintana y Congosto;2004;702
+        24144 Quintana y Congosto;2003;736
+        24127 Regueras de Arriba;2022;264
+        24128 Regueras de Arriba;2021;271
+        24129 Regueras de Arriba;2020;277
+        24130 Regueras de Arriba;2019;280
+        24131 Regueras de Arriba;2018;293
+        24132 Regueras de Arriba;2017;295
+        24133 Regueras de Arriba;2016;310
+        24134 Regueras de Arriba;2015;326
+        24135 Regueras de Arriba;2014;331
+        24136 Regueras de Arriba;2013;330
+        24137 Regueras de Arriba;2012;332
+        24138 Regueras de Arriba;2011;345
+        24139 Regueras de Arriba;2010;339
+        24140 Regueras de Arriba;2009;345
+        24141 Regueras de Arriba;2008;355
+        24142 Regueras de Arriba;2007;355
+        24143 Regueras de Arriba;2006;360
+        24144 Regueras de Arriba;2005;369
+        24145 Regueras de Arriba;2004;368
+        24146 Regueras de Arriba;2003;379
+        24129 Reyero;2022;125
+        24130 Reyero;2021;131
+        24131 Reyero;2020;123
+        24132 Reyero;2019;116
+        24133 Reyero;2018;123
+        24134 Reyero;2017;125
+        24135 Reyero;2016;128
+        24136 Reyero;2015;125
+        24137 Reyero;2014;120
+        24138 Reyero;2013;121
+        24139 Reyero;2012;129
+        24140 Reyero;2011;130
+        24141 Reyero;2010;127
+        24142 Reyero;2009;128
+        24143 Reyero;2008;126
+        24144 Reyero;2007;124
+        24145 Reyero;2006;131
+        24146 Reyero;2005;137
+        24147 Reyero;2004;146
+        24148 Reyero;2003;151
+        24130 Riaño;2022;475
+        24131 Riaño;2021;471
+        24132 Riaño;2020;458
+        24133 Riaño;2019;463
+        24134 Riaño;2018;474
+        24135 Riaño;2017;477
+        24136 Riaño;2016;484
+        24137 Riaño;2015;490
+        24138 Riaño;2014;508
+        24139 Riaño;2013;498
+        24140 Riaño;2012;512
+        24141 Riaño;2011;538
+        24142 Riaño;2010;532
+        24143 Riaño;2009;525
+        24144 Riaño;2008;536
+        24145 Riaño;2007;540
+        24146 Riaño;2006;551
+        24147 Riaño;2005;539
+        24148 Riaño;2004;547
+        24149 Riaño;2003;569
+        24131 Riego de la Vega;2022;731
+        24132 Riego de la Vega;2021;708
+        24133 Riego de la Vega;2020;743
+        24134 Riego de la Vega;2019;742
+        24135 Riego de la Vega;2018;772
+        24136 Riego de la Vega;2017;812
+        24137 Riego de la Vega;2016;816
+        24138 Riego de la Vega;2015;835
+        24139 Riego de la Vega;2014;863
+        24140 Riego de la Vega;2013;879
+        24141 Riego de la Vega;2012;892
+        24142 Riego de la Vega;2011;896
+        24143 Riego de la Vega;2010;924
+        24144 Riego de la Vega;2009;954
+        24145 Riego de la Vega;2008;977
+        24146 Riego de la Vega;2007;1001
+        24147 Riego de la Vega;2006;998
+        24148 Riego de la Vega;2005;1006
+        24149 Riego de la Vega;2004;1014
+        24150 Riego de la Vega;2003;1037
+        24132 Riello;2022;614
+        24133 Riello;2021;616
+        24134 Riello;2020;622
+        24135 Riello;2019;647
+        24136 Riello;2018;622
+        24137 Riello;2017;622
+        24138 Riello;2016;648
+        24139 Riello;2015;676
+        24140 Riello;2014;686
+        24141 Riello;2013;693
+        24142 Riello;2012;700
+        24143 Riello;2011;717
+        24144 Riello;2010;733
+        24145 Riello;2009;733
+        24146 Riello;2008;761
+        24147 Riello;2007;768
+        24148 Riello;2006;798
+        24149 Riello;2005;821
+        24150 Riello;2004;864
+        24151 Riello;2003;902
+        24133 Rioseco de Tapia;2022;386
+        24134 Rioseco de Tapia;2021;386
+        24135 Rioseco de Tapia;2020;381
+        24136 Rioseco de Tapia;2019;374
+        24137 Rioseco de Tapia;2018;379
+        24138 Rioseco de Tapia;2017;390
+        24139 Rioseco de Tapia;2016;378
+        24140 Rioseco de Tapia;2015;372
+        24141 Rioseco de Tapia;2014;379
+        24142 Rioseco de Tapia;2013;389
+        24143 Rioseco de Tapia;2012;400
+        24144 Rioseco de Tapia;2011;415
+        24145 Rioseco de Tapia;2010;419
+        24146 Rioseco de Tapia;2009;433
+        24147 Rioseco de Tapia;2008;425
+        24148 Rioseco de Tapia;2007;439
+        24149 Rioseco de Tapia;2006;458
+        24150 Rioseco de Tapia;2005;486
+        24151 Rioseco de Tapia;2004;504
+        24152 Rioseco de Tapia;2003;520
+        24134 Robla, La;2022;3654
+        24135 Robla, La;2021;3714
+        24136 Robla, La;2020;3752
+        24137 Robla, La;2019;3783
+        24138 Robla, La;2018;3884
+        24139 Robla, La;2017;4045
+        24140 Robla, La;2016;4142
+        24141 Robla, La;2015;4302
+        24142 Robla, La;2014;4387
+        24143 Robla, La;2013;4482
+        24144 Robla, La;2012;4610
+        24145 Robla, La;2011;4581
+        24146 Robla, La;2010;4606
+        24147 Robla, La;2009;4625
+        24148 Robla, La;2008;4712
+        24149 Robla, La;2007;4713
+        24150 Robla, La;2006;4730
+        24151 Robla, La;2005;4723
+        24152 Robla, La;2004;4739
+        24153 Robla, La;2003;4845
+        24136 Roperuelos del Páramo;2022;511
+        24137 Roperuelos del Páramo;2021;512
+        24138 Roperuelos del Páramo;2020;522
+        24139 Roperuelos del Páramo;2019;524
+        24140 Roperuelos del Páramo;2018;550
+        24141 Roperuelos del Páramo;2017;565
+        24142 Roperuelos del Páramo;2016;582
+        24143 Roperuelos del Páramo;2015;592
+        24144 Roperuelos del Páramo;2014;616
+        24145 Roperuelos del Páramo;2013;614
+        24146 Roperuelos del Páramo;2012;624
+        24147 Roperuelos del Páramo;2011;642
+        24148 Roperuelos del Páramo;2010;664
+        24149 Roperuelos del Páramo;2009;675
+        24150 Roperuelos del Páramo;2008;679
+        24151 Roperuelos del Páramo;2007;701
+        24152 Roperuelos del Páramo;2006;729
+        24153 Roperuelos del Páramo;2005;749
+        24154 Roperuelos del Páramo;2004;737
+        24155 Roperuelos del Páramo;2003;748
+        24137 Sabero;2022;1088
+        24138 Sabero;2021;1108
+        24139 Sabero;2020;1123
+        24140 Sabero;2019;1140
+        24141 Sabero;2018;1161
+        24142 Sabero;2017;1184
+        24143 Sabero;2016;1212
+        24144 Sabero;2015;1246
+        24145 Sabero;2014;1275
+        24146 Sabero;2013;1313
+        24147 Sabero;2012;1353
+        24148 Sabero;2011;1407
+        24149 Sabero;2010;1406
+        24150 Sabero;2009;1451
+        24151 Sabero;2008;1487
+        24152 Sabero;2007;1502
+        24153 Sabero;2006;1517
+        24154 Sabero;2005;1548
+        24155 Sabero;2004;1615
+        24156 Sabero;2003;1688
+        24139 Sahagún;2022;2434
+        24140 Sahagún;2021;2441
+        24141 Sahagún;2020;2477
+        24142 Sahagún;2019;2493
+        24143 Sahagún;2018;2517
+        24144 Sahagún;2017;2597
+        24145 Sahagún;2016;2645
+        24146 Sahagún;2015;2709
+        24147 Sahagún;2014;2783
+        24148 Sahagún;2013;2791
+        24149 Sahagún;2012;2811
+        24150 Sahagún;2011;2820
+        24151 Sahagún;2010;2817
+        24152 Sahagún;2009;2837
+        24153 Sahagún;2008;2858
+        24154 Sahagún;2007;2841
+        24155 Sahagún;2006;2924
+        24156 Sahagún;2005;2937
+        24157 Sahagún;2004;2908
+        24158 Sahagún;2003;2989
+        24141 San Adrián del Valle;2022;100
+        24142 San Adrián del Valle;2021;100
+        24143 San Adrián del Valle;2020;100
+        24144 San Adrián del Valle;2019;103
+        24145 San Adrián del Valle;2018;106
+        24146 San Adrián del Valle;2017;105
+        24147 San Adrián del Valle;2016;109
+        24148 San Adrián del Valle;2015;112
+        24149 San Adrián del Valle;2014;107
+        24150 San Adrián del Valle;2013;114
+        24151 San Adrián del Valle;2012;123
+        24152 San Adrián del Valle;2011;132
+        24153 San Adrián del Valle;2010;133
+        24154 San Adrián del Valle;2009;135
+        24155 San Adrián del Valle;2008;137
+        24156 San Adrián del Valle;2007;126
+        24157 San Adrián del Valle;2006;129
+        24158 San Adrián del Valle;2005;131
+        24159 San Adrián del Valle;2004;135
+        24160 San Adrián del Valle;2003;142
+        24142 San Andrés del Rabanedo;2022;29888
+        24143 San Andrés del Rabanedo;2021;30160
+        24144 San Andrés del Rabanedo;2020;30549
+        24145 San Andrés del Rabanedo;2019;30615
+        24146 San Andrés del Rabanedo;2018;30820
+        24147 San Andrés del Rabanedo;2017;31123
+        24148 San Andrés del Rabanedo;2016;31470
+        24149 San Andrés del Rabanedo;2015;31745
+        24150 San Andrés del Rabanedo;2014;31741
+        24151 San Andrés del Rabanedo;2013;31862
+        24152 San Andrés del Rabanedo;2012;31742
+        24153 San Andrés del Rabanedo;2011;31562
+        24154 San Andrés del Rabanedo;2010;31306
+        24155 San Andrés del Rabanedo;2009;30906
+        24156 San Andrés del Rabanedo;2008;30217
+        24157 San Andrés del Rabanedo;2007;28894
+        24158 San Andrés del Rabanedo;2006;28413
+        24159 San Andrés del Rabanedo;2005;27850
+        24160 San Andrés del Rabanedo;2004;26968
+        24161 San Andrés del Rabanedo;2003;26770
+        24144 San Cristóbal de la Polantera;2022;653
+        24145 San Cristóbal de la Polantera;2021;658
+        24146 San Cristóbal de la Polantera;2020;667
+        24147 San Cristóbal de la Polantera;2019;689
+        24148 San Cristóbal de la Polantera;2018;716
+        24149 San Cristóbal de la Polantera;2017;745
+        24150 San Cristóbal de la Polantera;2016;767
+        24151 San Cristóbal de la Polantera;2015;800
+        24152 San Cristóbal de la Polantera;2014;808
+        24153 San Cristóbal de la Polantera;2013;826
+        24154 San Cristóbal de la Polantera;2012;825
+        24155 San Cristóbal de la Polantera;2011;856
+        24156 San Cristóbal de la Polantera;2010;866
+        24157 San Cristóbal de la Polantera;2009;891
+        24158 San Cristóbal de la Polantera;2008;894
+        24159 San Cristóbal de la Polantera;2007;911
+        24160 San Cristóbal de la Polantera;2006;930
+        24161 San Cristóbal de la Polantera;2005;953
+        24162 San Cristóbal de la Polantera;2004;970
+        24163 San Cristóbal de la Polantera;2003;1006
+        24145 San Emiliano;2022;626
+        24146 San Emiliano;2021;630
+        24147 San Emiliano;2020;627
+        24148 San Emiliano;2019;646
+        24149 San Emiliano;2018;665
+        24150 San Emiliano;2017;678
+        24151 San Emiliano;2016;687
+        24152 San Emiliano;2015;694
+        24153 San Emiliano;2014;691
+        24154 San Emiliano;2013;703
+        24155 San Emiliano;2012;699
+        24156 San Emiliano;2011;706
+        24157 San Emiliano;2010;656
+        24158 San Emiliano;2009;682
+        24159 San Emiliano;2008;711
+        24160 San Emiliano;2007;721
+        24161 San Emiliano;2006;731
+        24162 San Emiliano;2005;752
+        24163 San Emiliano;2004;786
+        24164 San Emiliano;2003;815
+        24146 San Esteban de Nogales;2022;251
+        24147 San Esteban de Nogales;2021;252
+        24148 San Esteban de Nogales;2020;257
+        24149 San Esteban de Nogales;2019;256
+        24150 San Esteban de Nogales;2018;261
+        24151 San Esteban de Nogales;2017;265
+        24152 San Esteban de Nogales;2016;272
+        24153 San Esteban de Nogales;2015;281
+        24154 San Esteban de Nogales;2014;285
+        24155 San Esteban de Nogales;2013;284
+        24156 San Esteban de Nogales;2012;289
+        24157 San Esteban de Nogales;2011;298
+        24158 San Esteban de Nogales;2010;301
+        24159 San Esteban de Nogales;2009;305
+        24160 San Esteban de Nogales;2008;309
+        24161 San Esteban de Nogales;2007;321
+        24162 San Esteban de Nogales;2006;330
+        24163 San Esteban de Nogales;2005;334
+        24164 San Esteban de Nogales;2004;350
+        24165 San Esteban de Nogales;2003;350
+        24148 San Justo de la Vega;2022;1765
+        24149 San Justo de la Vega;2021;1780
+        24150 San Justo de la Vega;2020;1807
+        24151 San Justo de la Vega;2019;1843
+        24152 San Justo de la Vega;2018;1875
+        24153 San Justo de la Vega;2017;1912
+        24154 San Justo de la Vega;2016;1908
+        24155 San Justo de la Vega;2015;1949
+        24156 San Justo de la Vega;2014;1986
+        24157 San Justo de la Vega;2013;1991
+        24158 San Justo de la Vega;2012;1997
+        24159 San Justo de la Vega;2011;2026
+        24160 San Justo de la Vega;2010;2054
+        24161 San Justo de la Vega;2009;2079
+        24162 San Justo de la Vega;2008;2072
+        24163 San Justo de la Vega;2007;2058
+        24164 San Justo de la Vega;2006;2043
+        24165 San Justo de la Vega;2005;2113
+        24166 San Justo de la Vega;2004;2112
+        24167 San Justo de la Vega;2003;2144
+        24149 San Millán de los Caballeros;2022;176
+        24150 San Millán de los Caballeros;2021;173
+        24151 San Millán de los Caballeros;2020;168
+        24152 San Millán de los Caballeros;2019;167
+        24153 San Millán de los Caballeros;2018;168
+        24154 San Millán de los Caballeros;2017;176
+        24155 San Millán de los Caballeros;2016;186
+        24156 San Millán de los Caballeros;2015;190
+        24157 San Millán de los Caballeros;2014;185
+        24158 San Millán de los Caballeros;2013;190
+        24159 San Millán de los Caballeros;2012;188
+        24160 San Millán de los Caballeros;2011;187
+        24161 San Millán de los Caballeros;2010;188
+        24162 San Millán de los Caballeros;2009;188
+        24163 San Millán de los Caballeros;2008;199
+        24164 San Millán de los Caballeros;2007;201
+        24165 San Millán de los Caballeros;2006;171
+        24166 San Millán de los Caballeros;2005;174
+        24167 San Millán de los Caballeros;2004;179
+        24168 San Millán de los Caballeros;2003;184
+        24150 San Pedro Bercianos;2022;231
+        24151 San Pedro Bercianos;2021;230
+        24152 San Pedro Bercianos;2020;231
+        24153 San Pedro Bercianos;2019;238
+        24154 San Pedro Bercianos;2018;237
+        24155 San Pedro Bercianos;2017;244
+        24156 San Pedro Bercianos;2016;253
+        24157 San Pedro Bercianos;2015;263
+        24158 San Pedro Bercianos;2014;262
+        24159 San Pedro Bercianos;2013;265
+        24160 San Pedro Bercianos;2012;271
+        24161 San Pedro Bercianos;2011;282
+        24162 San Pedro Bercianos;2010;292
+        24163 San Pedro Bercianos;2009;303
+        24164 San Pedro Bercianos;2008;315
+        24165 San Pedro Bercianos;2007;312
+        24166 San Pedro Bercianos;2006;326
+        24167 San Pedro Bercianos;2005;338
+        24168 San Pedro Bercianos;2004;346
+        24169 San Pedro Bercianos;2003;357
+        24143 Sancedo;2022;536
+        24144 Sancedo;2021;536
+        24145 Sancedo;2020;546
+        24146 Sancedo;2019;556
+        24147 Sancedo;2018;561
+        24148 Sancedo;2017;563
+        24149 Sancedo;2016;573
+        24150 Sancedo;2015;569
+        24151 Sancedo;2014;565
+        24152 Sancedo;2013;571
+        24153 Sancedo;2012;574
+        24154 Sancedo;2011;560
+        24155 Sancedo;2010;566
+        24156 Sancedo;2009;591
+        24157 Sancedo;2008;581
+        24158 Sancedo;2007;576
+        24159 Sancedo;2006;573
+        24160 Sancedo;2005;564
+        24161 Sancedo;2004;554
+        24162 Sancedo;2003;554
+        24151 Santa Colomba de Curueño;2022;495
+        24152 Santa Colomba de Curueño;2021;478
+        24153 Santa Colomba de Curueño;2020;473
+        24154 Santa Colomba de Curueño;2019;479
+        24155 Santa Colomba de Curueño;2018;490
+        24156 Santa Colomba de Curueño;2017;508
+        24157 Santa Colomba de Curueño;2016;529
+        24158 Santa Colomba de Curueño;2015;547
+        24159 Santa Colomba de Curueño;2014;537
+        24160 Santa Colomba de Curueño;2013;540
+        24161 Santa Colomba de Curueño;2012;555
+        24162 Santa Colomba de Curueño;2011;568
+        24163 Santa Colomba de Curueño;2010;564
+        24164 Santa Colomba de Curueño;2009;570
+        24165 Santa Colomba de Curueño;2008;595
+        24166 Santa Colomba de Curueño;2007;590
+        24167 Santa Colomba de Curueño;2006;642
+        24168 Santa Colomba de Curueño;2005;633
+        24169 Santa Colomba de Curueño;2004;601
+        24170 Santa Colomba de Curueño;2003;623
+        24152 Santa Colomba de Somoza;2022;529
+        24153 Santa Colomba de Somoza;2021;518
+        24154 Santa Colomba de Somoza;2020;501
+        24155 Santa Colomba de Somoza;2019;511
+        24156 Santa Colomba de Somoza;2018;504
+        24157 Santa Colomba de Somoza;2017;498
+        24158 Santa Colomba de Somoza;2016;522
+        24159 Santa Colomba de Somoza;2015;567
+        24160 Santa Colomba de Somoza;2014;518
+        24161 Santa Colomba de Somoza;2013;501
+        24162 Santa Colomba de Somoza;2012;505
+        24163 Santa Colomba de Somoza;2011;505
+        24164 Santa Colomba de Somoza;2010;463
+        24165 Santa Colomba de Somoza;2009;464
+        24166 Santa Colomba de Somoza;2008;470
+        24167 Santa Colomba de Somoza;2007;503
+        24168 Santa Colomba de Somoza;2006;471
+        24169 Santa Colomba de Somoza;2005;495
+        24170 Santa Colomba de Somoza;2004;498
+        24171 Santa Colomba de Somoza;2003;486
+        24153 Santa Cristina de Valmadrigal;2022;273
+        24154 Santa Cristina de Valmadrigal;2021;262
+        24155 Santa Cristina de Valmadrigal;2020;254
+        24156 Santa Cristina de Valmadrigal;2019;267
+        24157 Santa Cristina de Valmadrigal;2018;273
+        24158 Santa Cristina de Valmadrigal;2017;272
+        24159 Santa Cristina de Valmadrigal;2016;267
+        24160 Santa Cristina de Valmadrigal;2015;271
+        24161 Santa Cristina de Valmadrigal;2014;284
+        24162 Santa Cristina de Valmadrigal;2013;300
+        24163 Santa Cristina de Valmadrigal;2012;308
+        24164 Santa Cristina de Valmadrigal;2011;308
+        24165 Santa Cristina de Valmadrigal;2010;309
+        24166 Santa Cristina de Valmadrigal;2009;325
+        24167 Santa Cristina de Valmadrigal;2008;334
+        24168 Santa Cristina de Valmadrigal;2007;327
+        24169 Santa Cristina de Valmadrigal;2006;343
+        24170 Santa Cristina de Valmadrigal;2005;325
+        24171 Santa Cristina de Valmadrigal;2004;339
+        24172 Santa Cristina de Valmadrigal;2003;353
+        24154 Santa Elena de Jamuz;2022;1046
+        24155 Santa Elena de Jamuz;2021;1029
+        24156 Santa Elena de Jamuz;2020;1047
+        24157 Santa Elena de Jamuz;2019;1066
+        24158 Santa Elena de Jamuz;2018;1092
+        24159 Santa Elena de Jamuz;2017;1109
+        24160 Santa Elena de Jamuz;2016;1133
+        24161 Santa Elena de Jamuz;2015;1135
+        24162 Santa Elena de Jamuz;2014;1155
+        24163 Santa Elena de Jamuz;2013;1173
+        24164 Santa Elena de Jamuz;2012;1217
+        24165 Santa Elena de Jamuz;2011;1227
+        24166 Santa Elena de Jamuz;2010;1230
+        24167 Santa Elena de Jamuz;2009;1235
+        24168 Santa Elena de Jamuz;2008;1264
+        24169 Santa Elena de Jamuz;2007;1291
+        24170 Santa Elena de Jamuz;2006;1339
+        24171 Santa Elena de Jamuz;2005;1350
+        24172 Santa Elena de Jamuz;2004;1315
+        24173 Santa Elena de Jamuz;2003;1337
+        24155 Santa María de la Isla;2022;462
+        24156 Santa María de la Isla;2021;468
+        24157 Santa María de la Isla;2020;476
+        24158 Santa María de la Isla;2019;475
+        24159 Santa María de la Isla;2018;492
+        24160 Santa María de la Isla;2017;498
+        24161 Santa María de la Isla;2016;512
+        24162 Santa María de la Isla;2015;522
+        24163 Santa María de la Isla;2014;540
+        24164 Santa María de la Isla;2013;558
+        24165 Santa María de la Isla;2012;569
+        24166 Santa María de la Isla;2011;568
+        24167 Santa María de la Isla;2010;573
+        24168 Santa María de la Isla;2009;587
+        24169 Santa María de la Isla;2008;599
+        24170 Santa María de la Isla;2007;612
+        24171 Santa María de la Isla;2006;631
+        24172 Santa María de la Isla;2005;640
+        24173 Santa María de la Isla;2004;639
+        24174 Santa María de la Isla;2003;657
+        24158 Santa María de Ordás;2022;333
+        24159 Santa María de Ordás;2021;332
+        24160 Santa María de Ordás;2020;315
+        24161 Santa María de Ordás;2019;318
+        24162 Santa María de Ordás;2018;326
+        24163 Santa María de Ordás;2017;329
+        24164 Santa María de Ordás;2016;338
+        24165 Santa María de Ordás;2015;340
+        24166 Santa María de Ordás;2014;353
+        24167 Santa María de Ordás;2013;346
+        24168 Santa María de Ordás;2012;347
+        24169 Santa María de Ordás;2011;351
+        24170 Santa María de Ordás;2010;329
+        24171 Santa María de Ordás;2009;328
+        24172 Santa María de Ordás;2008;330
+        24173 Santa María de Ordás;2007;339
+        24174 Santa María de Ordás;2006;365
+        24175 Santa María de Ordás;2005;368
+        24176 Santa María de Ordás;2004;372
+        24177 Santa María de Ordás;2003;380
+        24156 Santa María del Monte de Cea;2022;215
+        24157 Santa María del Monte de Cea;2021;217
+        24158 Santa María del Monte de Cea;2020;225
+        24159 Santa María del Monte de Cea;2019;227
+        24160 Santa María del Monte de Cea;2018;233
+        24161 Santa María del Monte de Cea;2017;237
+        24162 Santa María del Monte de Cea;2016;249
+        24163 Santa María del Monte de Cea;2015;256
+        24164 Santa María del Monte de Cea;2014;260
+        24165 Santa María del Monte de Cea;2013;263
+        24166 Santa María del Monte de Cea;2012;269
+        24167 Santa María del Monte de Cea;2011;276
+        24168 Santa María del Monte de Cea;2010;279
+        24169 Santa María del Monte de Cea;2009;284
+        24170 Santa María del Monte de Cea;2008;298
+        24171 Santa María del Monte de Cea;2007;306
+        24172 Santa María del Monte de Cea;2006;317
+        24173 Santa María del Monte de Cea;2005;333
+        24174 Santa María del Monte de Cea;2004;331
+        24175 Santa María del Monte de Cea;2003;342
+        24157 Santa María del Páramo;2022;3065
+        24158 Santa María del Páramo;2021;3109
+        24159 Santa María del Páramo;2020;3101
+        24160 Santa María del Páramo;2019;3089
+        24161 Santa María del Páramo;2018;3096
+        24162 Santa María del Páramo;2017;3104
+        24163 Santa María del Páramo;2016;3141
+        24164 Santa María del Páramo;2015;3128
+        24165 Santa María del Páramo;2014;3157
+        24166 Santa María del Páramo;2013;3175
+        24167 Santa María del Páramo;2012;3183
+        24168 Santa María del Páramo;2011;3174
+        24169 Santa María del Páramo;2010;3179
+        24170 Santa María del Páramo;2009;3179
+        24171 Santa María del Páramo;2008;3165
+        24172 Santa María del Páramo;2007;3132
+        24173 Santa María del Páramo;2006;3156
+        24174 Santa María del Páramo;2005;3158
+        24175 Santa María del Páramo;2004;3147
+        24176 Santa María del Páramo;2003;3185
+        24159 Santa Marina del Rey;2022;1801
+        24160 Santa Marina del Rey;2021;1848
+        24161 Santa Marina del Rey;2020;1860
+        24162 Santa Marina del Rey;2019;1916
+        24163 Santa Marina del Rey;2018;1939
+        24164 Santa Marina del Rey;2017;1959
+        24165 Santa Marina del Rey;2016;1992
+        24166 Santa Marina del Rey;2015;2029
+        24167 Santa Marina del Rey;2014;2043
+        24168 Santa Marina del Rey;2013;2077
+        24169 Santa Marina del Rey;2012;2103
+        24170 Santa Marina del Rey;2011;2127
+        24171 Santa Marina del Rey;2010;2169
+        24172 Santa Marina del Rey;2009;2181
+        24173 Santa Marina del Rey;2008;2194
+        24174 Santa Marina del Rey;2007;2237
+        24175 Santa Marina del Rey;2006;2264
+        24176 Santa Marina del Rey;2005;2295
+        24177 Santa Marina del Rey;2004;2350
+        24178 Santa Marina del Rey;2003;2429
+        24160 Santas Martas;2022;753
+        24161 Santas Martas;2021;728
+        24162 Santas Martas;2020;729
+        24163 Santas Martas;2019;743
+        24164 Santas Martas;2018;757
+        24165 Santas Martas;2017;768
+        24166 Santas Martas;2016;770
+        24167 Santas Martas;2015;809
+        24168 Santas Martas;2014;834
+        24169 Santas Martas;2013;852
+        24170 Santas Martas;2012;857
+        24171 Santas Martas;2011;878
+        24172 Santas Martas;2010;898
+        24173 Santas Martas;2009;896
+        24174 Santas Martas;2008;925
+        24175 Santas Martas;2007;929
+        24176 Santas Martas;2006;920
+        24177 Santas Martas;2005;921
+        24178 Santas Martas;2004;952
+        24179 Santas Martas;2003;939
+        24161 Santiago Millas;2022;352
+        24162 Santiago Millas;2021;343
+        24163 Santiago Millas;2020;330
+        24164 Santiago Millas;2019;338
+        24165 Santiago Millas;2018;334
+        24166 Santiago Millas;2017;338
+        24167 Santiago Millas;2016;327
+        24168 Santiago Millas;2015;330
+        24169 Santiago Millas;2014;331
+        24170 Santiago Millas;2013;322
+        24171 Santiago Millas;2012;339
+        24172 Santiago Millas;2011;373
+        24173 Santiago Millas;2010;347
+        24174 Santiago Millas;2009;347
+        24175 Santiago Millas;2008;352
+        24176 Santiago Millas;2007;358
+        24177 Santiago Millas;2006;349
+        24178 Santiago Millas;2005;339
+        24179 Santiago Millas;2004;335
+        24180 Santiago Millas;2003;329
+        24162 Santovenia de la Valdoncina;2022;2084
+        24163 Santovenia de la Valdoncina;2021;2079
+        24164 Santovenia de la Valdoncina;2020;2100
+        24165 Santovenia de la Valdoncina;2019;2126
+        24166 Santovenia de la Valdoncina;2018;2108
+        24167 Santovenia de la Valdoncina;2017;2069
+        24168 Santovenia de la Valdoncina;2016;2014
+        24169 Santovenia de la Valdoncina;2015;2006
+        24170 Santovenia de la Valdoncina;2014;1996
+        24171 Santovenia de la Valdoncina;2013;1978
+        24172 Santovenia de la Valdoncina;2012;1987
+        24173 Santovenia de la Valdoncina;2011;1977
+        24174 Santovenia de la Valdoncina;2010;1969
+        24175 Santovenia de la Valdoncina;2009;1972
+        24176 Santovenia de la Valdoncina;2008;1933
+        24177 Santovenia de la Valdoncina;2007;1899
+        24178 Santovenia de la Valdoncina;2006;1888
+        24179 Santovenia de la Valdoncina;2005;1845
+        24180 Santovenia de la Valdoncina;2004;1774
+        24181 Santovenia de la Valdoncina;2003;1771
+        24163 Sariegos;2022;5306
+        24164 Sariegos;2021;5170
+        24165 Sariegos;2020;5084
+        24166 Sariegos;2019;5050
+        24167 Sariegos;2018;5040
+        24168 Sariegos;2017;4950
+        24169 Sariegos;2016;4904
+        24170 Sariegos;2015;4826
+        24171 Sariegos;2014;4819
+        24172 Sariegos;2013;4778
+        24173 Sariegos;2012;4671
+        24174 Sariegos;2011;4568
+        24175 Sariegos;2010;4416
+        24176 Sariegos;2009;4230
+        24177 Sariegos;2008;4066
+        24178 Sariegos;2007;3880
+        24179 Sariegos;2006;3742
+        24180 Sariegos;2005;3570
+        24181 Sariegos;2004;3451
+        24182 Sariegos;2003;3318
+        24164 Sena de Luna;2022;375
+        24165 Sena de Luna;2021;367
+        24166 Sena de Luna;2020;366
+        24167 Sena de Luna;2019;383
+        24168 Sena de Luna;2018;385
+        24169 Sena de Luna;2017;389
+        24170 Sena de Luna;2016;395
+        24171 Sena de Luna;2015;402
+        24172 Sena de Luna;2014;388
+        24173 Sena de Luna;2013;398
+        24174 Sena de Luna;2012;412
+        24175 Sena de Luna;2011;418
+        24176 Sena de Luna;2010;397
+        24177 Sena de Luna;2009;400
+        24178 Sena de Luna;2008;402
+        24179 Sena de Luna;2007;430
+        24180 Sena de Luna;2006;437
+        24181 Sena de Luna;2005;440
+        24182 Sena de Luna;2004;450
+        24183 Sena de Luna;2003;467
+        24165 Sobrado;2022;294
+        24166 Sobrado;2021;292
+        24167 Sobrado;2020;301
+        24168 Sobrado;2019;312
+        24169 Sobrado;2018;324
+        24170 Sobrado;2017;333
+        24171 Sobrado;2016;353
+        24172 Sobrado;2015;363
+        24173 Sobrado;2014;366
+        24174 Sobrado;2013;368
+        24175 Sobrado;2012;363
+        24176 Sobrado;2011;376
+        24177 Sobrado;2010;395
+        24178 Sobrado;2009;420
+        24179 Sobrado;2008;452
+        24180 Sobrado;2007;446
+        24181 Sobrado;2006;455
+        24182 Sobrado;2005;470
+        24183 Sobrado;2004;494
+        24184 Sobrado;2003;501
+        24166 Soto de la Vega;2022;1490
+        24167 Soto de la Vega;2021;1518
+        24168 Soto de la Vega;2020;1526
+        24169 Soto de la Vega;2019;1529
+        24170 Soto de la Vega;2018;1557
+        24171 Soto de la Vega;2017;1578
+        24172 Soto de la Vega;2016;1600
+        24173 Soto de la Vega;2015;1641
+        24174 Soto de la Vega;2014;1656
+        24175 Soto de la Vega;2013;1682
+        24176 Soto de la Vega;2012;1724
+        24177 Soto de la Vega;2011;1769
+        24178 Soto de la Vega;2010;1785
+        24179 Soto de la Vega;2009;1810
+        24180 Soto de la Vega;2008;1836
+        24181 Soto de la Vega;2007;1888
+        24182 Soto de la Vega;2006;1946
+        24183 Soto de la Vega;2005;1942
+        24184 Soto de la Vega;2004;1933
+        24185 Soto de la Vega;2003;1943
+        24167 Soto y Amío;2022;753
+        24168 Soto y Amío;2021;770
+        24169 Soto y Amío;2020;773
+        24170 Soto y Amío;2019;783
+        24171 Soto y Amío;2018;801
+        24172 Soto y Amío;2017;823
+        24173 Soto y Amío;2016;830
+        24174 Soto y Amío;2015;853
+        24175 Soto y Amío;2014;865
+        24176 Soto y Amío;2013;897
+        24177 Soto y Amío;2012;905
+        24178 Soto y Amío;2011;917
+        24179 Soto y Amío;2010;938
+        24180 Soto y Amío;2009;958
+        24181 Soto y Amío;2008;989
+        24182 Soto y Amío;2007;1004
+        24183 Soto y Amío;2006;1022
+        24184 Soto y Amío;2005;1011
+        24185 Soto y Amío;2004;1011
+        24186 Soto y Amío;2003;1047
+        24168 Toral de los Guzmanes;2022;513
+        24169 Toral de los Guzmanes;2021;508
+        24170 Toral de los Guzmanes;2020;501
+        24171 Toral de los Guzmanes;2019;500
+        24172 Toral de los Guzmanes;2018;508
+        24173 Toral de los Guzmanes;2017;515
+        24174 Toral de los Guzmanes;2016;519
+        24175 Toral de los Guzmanes;2015;533
+        24176 Toral de los Guzmanes;2014;541
+        24177 Toral de los Guzmanes;2013;567
+        24178 Toral de los Guzmanes;2012;580
+        24179 Toral de los Guzmanes;2011;603
+        24180 Toral de los Guzmanes;2010;603
+        24181 Toral de los Guzmanes;2009;613
+        24182 Toral de los Guzmanes;2008;644
+        24183 Toral de los Guzmanes;2007;657
+        24184 Toral de los Guzmanes;2006;663
+        24185 Toral de los Guzmanes;2005;675
+        24186 Toral de los Guzmanes;2004;655
+        24187 Toral de los Guzmanes;2003;665
+        24206 Toral de los Vados;2022;1792
+        24207 Toral de los Vados;2021;1809
+        24208 Toral de los Vados;2020;1812
+        24209 Toral de los Vados;2019;1846
+        24210 Toral de los Vados;2018;1887
+        24211 Toral de los Vados;2017;1909
+        24212 Toral de los Vados;2016;1941
+        24213 Toral de los Vados;2015;2024
+        24214 Toral de los Vados;2014;2068
+        24215 Toral de los Vados;2013;2108
+        24216 Toral de los Vados;2012;2130
+        24217 Toral de los Vados;2011;2193
+        24218 Toral de los Vados;2010;2216
+        24219 Toral de los Vados;2009;2196
+        24220 Toral de los Vados;2008;2190
+        24221 Toral de los Vados;2007;2180
+        24222 Toral de los Vados;2006;2198
+        24223 Toral de los Vados;2005;2184
+        24224 Toral de los Vados;2004;2169
+        24225 Toral de los Vados;2003;2225
+        24169 Toreno;2022;2980
+        24170 Toreno;2021;3017
+        24171 Toreno;2020;3012
+        24172 Toreno;2019;3105
+        24173 Toreno;2018;3157
+        24174 Toreno;2017;3219
+        24175 Toreno;2016;3304
+        24176 Toreno;2015;3380
+        24177 Toreno;2014;3481
+        24178 Toreno;2013;3525
+        24179 Toreno;2012;3595
+        24180 Toreno;2011;3691
+        24181 Toreno;2010;3739
+        24182 Toreno;2009;3743
+        24183 Toreno;2008;3806
+        24184 Toreno;2007;3836
+        24185 Toreno;2006;3876
+        24186 Toreno;2005;3793
+        24187 Toreno;2004;3792
+        24188 Toreno;2003;3942
+        24170 Torre del Bierzo;2022;2068
+        24171 Torre del Bierzo;2021;2079
+        24172 Torre del Bierzo;2020;2114
+        24173 Torre del Bierzo;2019;2164
+        24174 Torre del Bierzo;2018;2162
+        24175 Torre del Bierzo;2017;2157
+        24176 Torre del Bierzo;2016;2248
+        24177 Torre del Bierzo;2015;2265
+        24178 Torre del Bierzo;2014;2352
+        24179 Torre del Bierzo;2013;2440
+        24180 Torre del Bierzo;2012;2460
+        24181 Torre del Bierzo;2011;2562
+        24182 Torre del Bierzo;2010;2588
+        24183 Torre del Bierzo;2009;2583
+        24184 Torre del Bierzo;2008;2641
+        24185 Torre del Bierzo;2007;2714
+        24186 Torre del Bierzo;2006;2825
+        24187 Torre del Bierzo;2005;2778
+        24188 Torre del Bierzo;2004;2736
+        24189 Torre del Bierzo;2003;2921
+        24171 Trabadelo;2022;338
+        24172 Trabadelo;2021;336
+        24173 Trabadelo;2020;333
+        24174 Trabadelo;2019;357
+        24175 Trabadelo;2018;353
+        24176 Trabadelo;2017;352
+        24177 Trabadelo;2016;366
+        24178 Trabadelo;2015;394
+        24179 Trabadelo;2014;412
+        24180 Trabadelo;2013;426
+        24181 Trabadelo;2012;430
+        24182 Trabadelo;2011;456
+        24183 Trabadelo;2010;447
+        24184 Trabadelo;2009;454
+        24185 Trabadelo;2008;479
+        24186 Trabadelo;2007;496
+        24187 Trabadelo;2006;509
+        24188 Trabadelo;2005;523
+        24189 Trabadelo;2004;523
+        24190 Trabadelo;2003;502
+        24172 Truchas;2022;418
+        24173 Truchas;2021;418
+        24174 Truchas;2020;419
+        24175 Truchas;2019;443
+        24176 Truchas;2018;413
+        24177 Truchas;2017;426
+        24178 Truchas;2016;444
+        24179 Truchas;2015;454
+        24180 Truchas;2014;470
+        24181 Truchas;2013;492
+        24182 Truchas;2012;508
+        24183 Truchas;2011;529
+        24184 Truchas;2010;504
+        24185 Truchas;2009;539
+        24186 Truchas;2008;573
+        24187 Truchas;2007;619
+        24188 Truchas;2006;632
+        24189 Truchas;2005;648
+        24190 Truchas;2004;673
+        24191 Truchas;2003;705
+        24173 Turcia;2022;993
+        24174 Turcia;2021;1003
+        24175 Turcia;2020;986
+        24176 Turcia;2019;993
+        24177 Turcia;2018;1005
+        24178 Turcia;2017;1035
+        24179 Turcia;2016;1039
+        24180 Turcia;2015;1057
+        24181 Turcia;2014;1091
+        24182 Turcia;2013;1092
+        24183 Turcia;2012;1112
+        24184 Turcia;2011;1130
+        24185 Turcia;2010;1152
+        24186 Turcia;2009;1167
+        24187 Turcia;2008;1168
+        24188 Turcia;2007;1178
+        24189 Turcia;2006;1196
+        24190 Turcia;2005;1223
+        24191 Turcia;2004;1216
+        24192 Turcia;2003;1240
+        24174 Urdiales del Páramo;2022;466
+        24175 Urdiales del Páramo;2021;480
+        24176 Urdiales del Páramo;2020;494
+        24177 Urdiales del Páramo;2019;510
+        24178 Urdiales del Páramo;2018;503
+        24179 Urdiales del Páramo;2017;502
+        24180 Urdiales del Páramo;2016;508
+        24181 Urdiales del Páramo;2015;515
+        24182 Urdiales del Páramo;2014;520
+        24183 Urdiales del Páramo;2013;533
+        24184 Urdiales del Páramo;2012;549
+        24185 Urdiales del Páramo;2011;575
+        24186 Urdiales del Páramo;2010;576
+        24187 Urdiales del Páramo;2009;565
+        24188 Urdiales del Páramo;2008;567
+        24189 Urdiales del Páramo;2007;533
+        24190 Urdiales del Páramo;2006;557
+        24191 Urdiales del Páramo;2005;586
+        24192 Urdiales del Páramo;2004;614
+        24193 Urdiales del Páramo;2003;634
+        24185 Val de San Lorenzo;2022;493
+        24186 Val de San Lorenzo;2021;496
+        24187 Val de San Lorenzo;2020;496
+        24188 Val de San Lorenzo;2019;505
+        24189 Val de San Lorenzo;2018;515
+        24190 Val de San Lorenzo;2017;519
+        24191 Val de San Lorenzo;2016;529
+        24192 Val de San Lorenzo;2015;542
+        24193 Val de San Lorenzo;2014;545
+        24194 Val de San Lorenzo;2013;549
+        24195 Val de San Lorenzo;2012;578
+        24196 Val de San Lorenzo;2011;578
+        24197 Val de San Lorenzo;2010;584
+        24198 Val de San Lorenzo;2009;596
+        24199 Val de San Lorenzo;2008;619
+        24200 Val de San Lorenzo;2007;638
+        24201 Val de San Lorenzo;2006;662
+        24202 Val de San Lorenzo;2005;672
+        24203 Val de San Lorenzo;2004;674
+        24204 Val de San Lorenzo;2003;690
+        24175 Valdefresno;2022;2280
+        24176 Valdefresno;2021;2208
+        24177 Valdefresno;2020;2173
+        24178 Valdefresno;2019;2187
+        24179 Valdefresno;2018;2177
+        24180 Valdefresno;2017;2167
+        24181 Valdefresno;2016;2158
+        24182 Valdefresno;2015;2149
+        24183 Valdefresno;2014;2124
+        24184 Valdefresno;2013;2088
+        24185 Valdefresno;2012;2046
+        24186 Valdefresno;2011;2056
+        24187 Valdefresno;2010;2056
+        24188 Valdefresno;2009;2091
+        24189 Valdefresno;2008;2040
+        24190 Valdefresno;2007;2001
+        24191 Valdefresno;2006;2004
+        24192 Valdefresno;2005;1936
+        24193 Valdefresno;2004;1893
+        24194 Valdefresno;2003;1872
+        24176 Valdefuentes del Páramo;2022;315
+        24177 Valdefuentes del Páramo;2021;310
+        24178 Valdefuentes del Páramo;2020;319
+        24179 Valdefuentes del Páramo;2019;321
+        24180 Valdefuentes del Páramo;2018;335
+        24181 Valdefuentes del Páramo;2017;335
+        24182 Valdefuentes del Páramo;2016;347
+        24183 Valdefuentes del Páramo;2015;347
+        24184 Valdefuentes del Páramo;2014;343
+        24185 Valdefuentes del Páramo;2013;337
+        24186 Valdefuentes del Páramo;2012;354
+        24187 Valdefuentes del Páramo;2011;365
+        24188 Valdefuentes del Páramo;2010;377
+        24189 Valdefuentes del Páramo;2009;331
+        24190 Valdefuentes del Páramo;2008;337
+        24191 Valdefuentes del Páramo;2007;350
+        24192 Valdefuentes del Páramo;2006;365
+        24193 Valdefuentes del Páramo;2005;380
+        24194 Valdefuentes del Páramo;2004;388
+        24195 Valdefuentes del Páramo;2003;395
+        24177 Valdelugueros;2022;501
+        24178 Valdelugueros;2021;515
+        24179 Valdelugueros;2020;515
+        24180 Valdelugueros;2019;508
+        24181 Valdelugueros;2018;509
+        24182 Valdelugueros;2017;530
+        24183 Valdelugueros;2016;520
+        24184 Valdelugueros;2015;533
+        24185 Valdelugueros;2014;548
+        24186 Valdelugueros;2013;538
+        24187 Valdelugueros;2012;526
+        24188 Valdelugueros;2011;552
+        24189 Valdelugueros;2010;458
+        24190 Valdelugueros;2009;463
+        24191 Valdelugueros;2008;459
+        24192 Valdelugueros;2007;467
+        24193 Valdelugueros;2006;454
+        24194 Valdelugueros;2005;460
+        24195 Valdelugueros;2004;467
+        24196 Valdelugueros;2003;454
+        24178 Valdemora;2022;64
+        24179 Valdemora;2021;70
+        24180 Valdemora;2020;73
+        24181 Valdemora;2019;82
+        24182 Valdemora;2018;73
+        24183 Valdemora;2017;74
+        24184 Valdemora;2016;77
+        24185 Valdemora;2015;79
+        24186 Valdemora;2014;81
+        24187 Valdemora;2013;82
+        24188 Valdemora;2012;85
+        24189 Valdemora;2011;88
+        24190 Valdemora;2010;85
+        24191 Valdemora;2009;91
+        24192 Valdemora;2008;97
+        24193 Valdemora;2007;92
+        24194 Valdemora;2006;94
+        24195 Valdemora;2005;95
+        24196 Valdemora;2004;102
+        24197 Valdemora;2003;109
+        24179 Valdepiélago;2022;293
+        24180 Valdepiélago;2021;309
+        24181 Valdepiélago;2020;307
+        24182 Valdepiélago;2019;344
+        24183 Valdepiélago;2018;337
+        24184 Valdepiélago;2017;338
+        24185 Valdepiélago;2016;332
+        24186 Valdepiélago;2015;338
+        24187 Valdepiélago;2014;343
+        24188 Valdepiélago;2013;351
+        24189 Valdepiélago;2012;361
+        24190 Valdepiélago;2011;384
+        24191 Valdepiélago;2010;405
+        24192 Valdepiélago;2009;416
+        24193 Valdepiélago;2008;436
+        24194 Valdepiélago;2007;451
+        24195 Valdepiélago;2006;413
+        24196 Valdepiélago;2005;421
+        24197 Valdepiélago;2004;422
+        24198 Valdepiélago;2003;414
+        24180 Valdepolo;2022;1190
+        24181 Valdepolo;2021;1207
+        24182 Valdepolo;2020;1200
+        24183 Valdepolo;2019;1219
+        24184 Valdepolo;2018;1224
+        24185 Valdepolo;2017;1240
+        24186 Valdepolo;2016;1248
+        24187 Valdepolo;2015;1274
+        24188 Valdepolo;2014;1297
+        24189 Valdepolo;2013;1303
+        24190 Valdepolo;2012;1328
+        24191 Valdepolo;2011;1312
+        24192 Valdepolo;2010;1312
+        24193 Valdepolo;2009;1347
+        24194 Valdepolo;2008;1383
+        24195 Valdepolo;2007;1444
+        24196 Valdepolo;2006;1457
+        24197 Valdepolo;2005;1463
+        24198 Valdepolo;2004;1481
+        24199 Valdepolo;2003;1508
+        24181 Valderas;2022;1566
+        24182 Valderas;2021;1575
+        24183 Valderas;2020;1586
+        24184 Valderas;2019;1623
+        24185 Valderas;2018;1661
+        24186 Valderas;2017;1719
+        24187 Valderas;2016;1777
+        24188 Valderas;2015;1819
+        24189 Valderas;2014;1731
+        24190 Valderas;2013;1876
+        24191 Valderas;2012;1943
+        24192 Valderas;2011;2008
+        24193 Valderas;2010;2014
+        24194 Valderas;2009;2038
+        24195 Valderas;2008;2041
+        24196 Valderas;2007;2045
+        24197 Valderas;2006;2055
+        24198 Valderas;2005;2079
+        24199 Valderas;2004;2049
+        24200 Valderas;2003;2064
+        24182 Valderrey;2022;422
+        24183 Valderrey;2021;435
+        24184 Valderrey;2020;446
+        24185 Valderrey;2019;446
+        24186 Valderrey;2018;436
+        24187 Valderrey;2017;450
+        24188 Valderrey;2016;454
+        24189 Valderrey;2015;461
+        24190 Valderrey;2014;464
+        24191 Valderrey;2013;476
+        24192 Valderrey;2012;487
+        24193 Valderrey;2011;510
+        24194 Valderrey;2010;502
+        24195 Valderrey;2009;517
+        24196 Valderrey;2008;553
+        24197 Valderrey;2007;574
+        24198 Valderrey;2006;588
+        24199 Valderrey;2005;564
+        24200 Valderrey;2004;580
+        24201 Valderrey;2003;592
+        24183 Valderrueda;2022;820
+        24184 Valderrueda;2021;836
+        24185 Valderrueda;2020;827
+        24186 Valderrueda;2019;832
+        24187 Valderrueda;2018;853
+        24188 Valderrueda;2017;885
+        24189 Valderrueda;2016;909
+        24190 Valderrueda;2015;923
+        24191 Valderrueda;2014;945
+        24192 Valderrueda;2013;944
+        24193 Valderrueda;2012;979
+        24194 Valderrueda;2011;1001
+        24195 Valderrueda;2010;1004
+        24196 Valderrueda;2009;1014
+        24197 Valderrueda;2008;1036
+        24198 Valderrueda;2007;1058
+        24199 Valderrueda;2006;1099
+        24200 Valderrueda;2005;1113
+        24201 Valderrueda;2004;1138
+        24202 Valderrueda;2003;1189
+        24184 Valdesamario;2022;186
+        24185 Valdesamario;2021;195
+        24186 Valdesamario;2020;189
+        24187 Valdesamario;2019;194
+        24188 Valdesamario;2018;196
+        24189 Valdesamario;2017;199
+        24190 Valdesamario;2016;213
+        24191 Valdesamario;2015;215
+        24192 Valdesamario;2014;216
+        24193 Valdesamario;2013;219
+        24194 Valdesamario;2012;222
+        24195 Valdesamario;2011;222
+        24196 Valdesamario;2010;221
+        24197 Valdesamario;2009;214
+        24198 Valdesamario;2008;218
+        24199 Valdesamario;2007;218
+        24200 Valdesamario;2006;225
+        24201 Valdesamario;2005;222
+        24202 Valdesamario;2004;224
+        24203 Valdesamario;2003;240
+        24187 Valdevimbre;2022;928
+        24188 Valdevimbre;2021;936
+        24189 Valdevimbre;2020;958
+        24190 Valdevimbre;2019;978
+        24191 Valdevimbre;2018;1003
+        24192 Valdevimbre;2017;1006
+        24193 Valdevimbre;2016;1016
+        24194 Valdevimbre;2015;997
+        24195 Valdevimbre;2014;1013
+        24196 Valdevimbre;2013;1017
+        24197 Valdevimbre;2012;1038
+        24198 Valdevimbre;2011;1054
+        24199 Valdevimbre;2010;1063
+        24200 Valdevimbre;2009;1078
+        24201 Valdevimbre;2008;1106
+        24202 Valdevimbre;2007;1109
+        24203 Valdevimbre;2006;1125
+        24204 Valdevimbre;2005;1156
+        24205 Valdevimbre;2004;1110
+        24206 Valdevimbre;2003;1127
+        24188 Valencia de Don Juan;2022;5176
+        24189 Valencia de Don Juan;2021;5159
+        24190 Valencia de Don Juan;2020;5272
+        24191 Valencia de Don Juan;2019;5351
+        24192 Valencia de Don Juan;2018;5302
+        24193 Valencia de Don Juan;2017;5201
+        24194 Valencia de Don Juan;2016;5190
+        24195 Valencia de Don Juan;2015;5181
+        24196 Valencia de Don Juan;2014;5204
+        24197 Valencia de Don Juan;2013;5199
+        24198 Valencia de Don Juan;2012;5184
+        24199 Valencia de Don Juan;2011;5094
+        24200 Valencia de Don Juan;2010;5079
+        24201 Valencia de Don Juan;2009;5083
+        24202 Valencia de Don Juan;2008;4839
+        24203 Valencia de Don Juan;2007;4565
+        24204 Valencia de Don Juan;2006;4412
+        24205 Valencia de Don Juan;2005;4357
+        24206 Valencia de Don Juan;2004;4165
+        24207 Valencia de Don Juan;2003;4132
+        24191 Vallecillo;2022;114
+        24192 Vallecillo;2021;123
+        24193 Vallecillo;2020;125
+        24194 Vallecillo;2019;128
+        24195 Vallecillo;2018;124
+        24196 Vallecillo;2017;121
+        24197 Vallecillo;2016;122
+        24198 Vallecillo;2015;124
+        24199 Vallecillo;2014;130
+        24200 Vallecillo;2013;135
+        24201 Vallecillo;2012;133
+        24202 Vallecillo;2011;131
+        24203 Vallecillo;2010;130
+        24204 Vallecillo;2009;129
+        24205 Vallecillo;2008;128
+        24206 Vallecillo;2007;137
+        24207 Vallecillo;2006;137
+        24208 Vallecillo;2005;140
+        24209 Vallecillo;2004;150
+        24210 Vallecillo;2003;158
+        24189 Valverde de la Virgen;2022;7559
+        24190 Valverde de la Virgen;2021;7442
+        24191 Valverde de la Virgen;2020;7377
+        24192 Valverde de la Virgen;2019;7328
+        24193 Valverde de la Virgen;2018;7294
+        24194 Valverde de la Virgen;2017;7305
+        24195 Valverde de la Virgen;2016;7358
+        24196 Valverde de la Virgen;2015;7435
+        24197 Valverde de la Virgen;2014;7275
+        24198 Valverde de la Virgen;2013;7165
+        24199 Valverde de la Virgen;2012;7118
+        24200 Valverde de la Virgen;2011;6906
+        24201 Valverde de la Virgen;2010;6581
+        24202 Valverde de la Virgen;2009;6427
+        24203 Valverde de la Virgen;2008;6178
+        24204 Valverde de la Virgen;2007;5787
+        24205 Valverde de la Virgen;2006;5505
+        24206 Valverde de la Virgen;2005;5034
+        24207 Valverde de la Virgen;2004;4592
+        24208 Valverde de la Virgen;2003;4417
+        24190 Valverde-Enrique;2022;152
+        24191 Valverde-Enrique;2021;152
+        24192 Valverde-Enrique;2020;155
+        24193 Valverde-Enrique;2019;155
+        24194 Valverde-Enrique;2018;159
+        24195 Valverde-Enrique;2017;161
+        24196 Valverde-Enrique;2016;174
+        24197 Valverde-Enrique;2015;175
+        24198 Valverde-Enrique;2014;181
+        24199 Valverde-Enrique;2013;182
+        24200 Valverde-Enrique;2012;189
+        24201 Valverde-Enrique;2011;196
+        24202 Valverde-Enrique;2010;195
+        24203 Valverde-Enrique;2009;199
+        24204 Valverde-Enrique;2008;202
+        24205 Valverde-Enrique;2007;213
+        24206 Valverde-Enrique;2006;214
+        24207 Valverde-Enrique;2005;212
+        24208 Valverde-Enrique;2004;208
+        24209 Valverde-Enrique;2003;207
+        24193 Vecilla, La;2022;411
+        24194 Vecilla, La;2021;414
+        24195 Vecilla, La;2020;393
+        24196 Vecilla, La;2019;386
+        24197 Vecilla, La;2018;393
+        24198 Vecilla, La;2017;409
+        24199 Vecilla, La;2016;409
+        24200 Vecilla, La;2015;408
+        24201 Vecilla, La;2014;396
+        24202 Vecilla, La;2013;419
+        24203 Vecilla, La;2012;428
+        24204 Vecilla, La;2011;426
+        24205 Vecilla, La;2010;441
+        24206 Vecilla, La;2009;437
+        24207 Vecilla, La;2008;437
+        24208 Vecilla, La;2007;450
+        24209 Vecilla, La;2006;438
+        24210 Vecilla, La;2005;439
+        24211 Vecilla, La;2004;421
+        24212 Vecilla, La;2003;418
+        24196 Vega de Espinareda;2022;2018
+        24197 Vega de Espinareda;2021;2005
+        24198 Vega de Espinareda;2020;2044
+        24199 Vega de Espinareda;2019;2069
+        24200 Vega de Espinareda;2018;2137
+        24201 Vega de Espinareda;2017;2210
+        24202 Vega de Espinareda;2016;2232
+        24203 Vega de Espinareda;2015;2281
+        24204 Vega de Espinareda;2014;2321
+        24205 Vega de Espinareda;2013;2380
+        24206 Vega de Espinareda;2012;2419
+        24207 Vega de Espinareda;2011;2477
+        24208 Vega de Espinareda;2010;2494
+        24209 Vega de Espinareda;2009;2503
+        24210 Vega de Espinareda;2008;2547
+        24211 Vega de Espinareda;2007;2560
+        24212 Vega de Espinareda;2006;2638
+        24213 Vega de Espinareda;2005;2704
+        24214 Vega de Espinareda;2004;2705
+        24215 Vega de Espinareda;2003;2771
+        24197 Vega de Infanzones;2022;835
+        24198 Vega de Infanzones;2021;824
+        24199 Vega de Infanzones;2020;818
+        24200 Vega de Infanzones;2019;854
+        24201 Vega de Infanzones;2018;854
+        24202 Vega de Infanzones;2017;880
+        24203 Vega de Infanzones;2016;883
+        24204 Vega de Infanzones;2015;905
+        24205 Vega de Infanzones;2014;918
+        24206 Vega de Infanzones;2013;932
+        24207 Vega de Infanzones;2012;925
+        24208 Vega de Infanzones;2011;938
+        24209 Vega de Infanzones;2010;911
+        24210 Vega de Infanzones;2009;929
+        24211 Vega de Infanzones;2008;940
+        24212 Vega de Infanzones;2007;918
+        24213 Vega de Infanzones;2006;925
+        24214 Vega de Infanzones;2005;884
+        24215 Vega de Infanzones;2004;856
+        24216 Vega de Infanzones;2003;869
+        24198 Vega de Valcarce;2022;579
+        24199 Vega de Valcarce;2021;578
+        24200 Vega de Valcarce;2020;587
+        24201 Vega de Valcarce;2019;606
+        24202 Vega de Valcarce;2018;604
+        24203 Vega de Valcarce;2017;621
+        24204 Vega de Valcarce;2016;652
+        24205 Vega de Valcarce;2015;669
+        24206 Vega de Valcarce;2014;672
+        24207 Vega de Valcarce;2013;676
+        24208 Vega de Valcarce;2012;706
+        24209 Vega de Valcarce;2011;703
+        24210 Vega de Valcarce;2010;712
+        24211 Vega de Valcarce;2009;725
+        24212 Vega de Valcarce;2008;752
+        24213 Vega de Valcarce;2007;735
+        24214 Vega de Valcarce;2006;731
+        24215 Vega de Valcarce;2005;766
+        24216 Vega de Valcarce;2004;805
+        24217 Vega de Valcarce;2003;802
+        24194 Vegacervera;2022;266
+        24195 Vegacervera;2021;262
+        24196 Vegacervera;2020;267
+        24197 Vegacervera;2019;279
+        24198 Vegacervera;2018;284
+        24199 Vegacervera;2017;293
+        24200 Vegacervera;2016;312
+        24201 Vegacervera;2015;314
+        24202 Vegacervera;2014;327
+        24203 Vegacervera;2013;329
+        24204 Vegacervera;2012;351
+        24205 Vegacervera;2011;368
+        24206 Vegacervera;2010;356
+        24207 Vegacervera;2009;354
+        24208 Vegacervera;2008;342
+        24209 Vegacervera;2007;353
+        24210 Vegacervera;2006;306
+        24211 Vegacervera;2005;309
+        24212 Vegacervera;2004;334
+        24213 Vegacervera;2003;326
+        24199 Vegaquemada;2022;428
+        24200 Vegaquemada;2021;426
+        24201 Vegaquemada;2020;438
+        24202 Vegaquemada;2019;439
+        24203 Vegaquemada;2018;437
+        24204 Vegaquemada;2017;445
+        24205 Vegaquemada;2016;457
+        24206 Vegaquemada;2015;465
+        24207 Vegaquemada;2014;454
+        24208 Vegaquemada;2013;456
+        24209 Vegaquemada;2012;467
+        24210 Vegaquemada;2011;455
+        24211 Vegaquemada;2010;469
+        24212 Vegaquemada;2009;470
+        24213 Vegaquemada;2008;468
+        24214 Vegaquemada;2007;471
+        24215 Vegaquemada;2006;475
+        24216 Vegaquemada;2005;483
+        24217 Vegaquemada;2004;488
+        24218 Vegaquemada;2003;501
+        24201 Vegas del Condado;2022;1154
+        24202 Vegas del Condado;2021;1149
+        24203 Vegas del Condado;2020;1109
+        24204 Vegas del Condado;2019;1114
+        24205 Vegas del Condado;2018;1117
+        24206 Vegas del Condado;2017;1158
+        24207 Vegas del Condado;2016;1158
+        24208 Vegas del Condado;2015;1163
+        24209 Vegas del Condado;2014;1175
+        24210 Vegas del Condado;2013;1157
+        24211 Vegas del Condado;2012;1195
+        24212 Vegas del Condado;2011;1215
+        24213 Vegas del Condado;2010;1240
+        24214 Vegas del Condado;2009;1263
+        24215 Vegas del Condado;2008;1290
+        24216 Vegas del Condado;2007;1353
+        24217 Vegas del Condado;2006;1319
+        24218 Vegas del Condado;2005;1335
+        24219 Vegas del Condado;2004;1361
+        24220 Vegas del Condado;2003;1350
+        24202 Villablino;2022;8086
+        24203 Villablino;2021;8226
+        24204 Villablino;2020;8444
+        24205 Villablino;2019;8620
+        24206 Villablino;2018;8919
+        24207 Villablino;2017;9150
+        24208 Villablino;2016;9342
+        24209 Villablino;2015;9509
+        24210 Villablino;2014;9784
+        24211 Villablino;2013;10003
+        24212 Villablino;2012;10220
+        24213 Villablino;2011;10353
+        24214 Villablino;2010;10553
+        24215 Villablino;2009;10660
+        24216 Villablino;2008;10860
+        24217 Villablino;2007;11168
+        24218 Villablino;2006;11544
+        24219 Villablino;2005;11904
+        24220 Villablino;2004;12212
+        24221 Villablino;2003;12978
+        24203 Villabraz;2022;99
+        24204 Villabraz;2021;92
+        24205 Villabraz;2020;91
+        24206 Villabraz;2019;97
+        24207 Villabraz;2018;93
+        24208 Villabraz;2017;99
+        24209 Villabraz;2016;107
+        24210 Villabraz;2015;113
+        24211 Villabraz;2014;110
+        24212 Villabraz;2013;114
+        24213 Villabraz;2012;110
+        24214 Villabraz;2011;121
+        24215 Villabraz;2010;125
+        24216 Villabraz;2009;127
+        24217 Villabraz;2008;139
+        24218 Villabraz;2007;142
+        24219 Villabraz;2006;142
+        24220 Villabraz;2005;143
+        24221 Villabraz;2004;139
+        24222 Villabraz;2003;135
+        24205 Villadangos del Páramo;2022;1221
+        24206 Villadangos del Páramo;2021;1214
+        24207 Villadangos del Páramo;2020;1163
+        24208 Villadangos del Páramo;2019;1132
+        24209 Villadangos del Páramo;2018;1094
+        24210 Villadangos del Páramo;2017;1106
+        24211 Villadangos del Páramo;2016;1096
+        24212 Villadangos del Páramo;2015;1103
+        24213 Villadangos del Páramo;2014;1100
+        24214 Villadangos del Páramo;2013;1117
+        24215 Villadangos del Páramo;2012;1111
+        24216 Villadangos del Páramo;2011;1140
+        24217 Villadangos del Páramo;2010;1165
+        24218 Villadangos del Páramo;2009;1141
+        24219 Villadangos del Páramo;2008;1128
+        24220 Villadangos del Páramo;2007;1102
+        24221 Villadangos del Páramo;2006;1109
+        24222 Villadangos del Páramo;2005;1024
+        24223 Villadangos del Páramo;2004;1018
+        24224 Villadangos del Páramo;2003;992
+        24207 Villademor de la Vega;2022;290
+        24208 Villademor de la Vega;2021;299
+        24209 Villademor de la Vega;2020;325
+        24210 Villademor de la Vega;2019;327
+        24211 Villademor de la Vega;2018;336
+        24212 Villademor de la Vega;2017;337
+        24213 Villademor de la Vega;2016;352
+        24214 Villademor de la Vega;2015;349
+        24215 Villademor de la Vega;2014;370
+        24216 Villademor de la Vega;2013;390
+        24217 Villademor de la Vega;2012;395
+        24218 Villademor de la Vega;2011;383
+        24219 Villademor de la Vega;2010;395
+        24220 Villademor de la Vega;2009;397
+        24221 Villademor de la Vega;2008;402
+        24222 Villademor de la Vega;2007;395
+        24223 Villademor de la Vega;2006;419
+        24224 Villademor de la Vega;2005;437
+        24225 Villademor de la Vega;2004;451
+        24226 Villademor de la Vega;2003;441
+        24209 Villafranca del Bierzo;2022;2756
+        24210 Villafranca del Bierzo;2021;2806
+        24211 Villafranca del Bierzo;2020;2855
+        24212 Villafranca del Bierzo;2019;2899
+        24213 Villafranca del Bierzo;2018;2974
+        24214 Villafranca del Bierzo;2017;3055
+        24215 Villafranca del Bierzo;2016;3153
+        24216 Villafranca del Bierzo;2015;3160
+        24217 Villafranca del Bierzo;2014;3251
+        24218 Villafranca del Bierzo;2013;3316
+        24219 Villafranca del Bierzo;2012;3463
+        24220 Villafranca del Bierzo;2011;3505
+        24221 Villafranca del Bierzo;2010;3516
+        24222 Villafranca del Bierzo;2009;3481
+        24223 Villafranca del Bierzo;2008;3504
+        24224 Villafranca del Bierzo;2007;3533
+        24225 Villafranca del Bierzo;2006;3636
+        24226 Villafranca del Bierzo;2005;3710
+        24227 Villafranca del Bierzo;2004;3729
+        24228 Villafranca del Bierzo;2003;3728
+        24210 Villagatón;2022;650
+        24211 Villagatón;2021;636
+        24212 Villagatón;2020;627
+        24213 Villagatón;2019;613
+        24214 Villagatón;2018;588
+        24215 Villagatón;2017;588
+        24216 Villagatón;2016;610
+        24217 Villagatón;2015;617
+        24218 Villagatón;2014;619
+        24219 Villagatón;2013;635
+        24220 Villagatón;2012;638
+        24221 Villagatón;2011;642
+        24222 Villagatón;2010;648
+        24223 Villagatón;2009;665
+        24224 Villagatón;2008;682
+        24225 Villagatón;2007;672
+        24226 Villagatón;2006;707
+        24227 Villagatón;2005;719
+        24228 Villagatón;2004;734
+        24229 Villagatón;2003;779
+        24211 Villamandos;2022;288
+        24212 Villamandos;2021;292
+        24213 Villamandos;2020;295
+        24214 Villamandos;2019;294
+        24215 Villamandos;2018;308
+        24216 Villamandos;2017;303
+        24217 Villamandos;2016;308
+        24218 Villamandos;2015;310
+        24219 Villamandos;2014;314
+        24220 Villamandos;2013;318
+        24221 Villamandos;2012;326
+        24222 Villamandos;2011;322
+        24223 Villamandos;2010;333
+        24224 Villamandos;2009;341
+        24225 Villamandos;2008;348
+        24226 Villamandos;2007;343
+        24227 Villamandos;2006;359
+        24228 Villamandos;2005;362
+        24229 Villamandos;2004;374
+        24230 Villamandos;2003;396
+        24901 Villamanín;2022;905
+        24902 Villamanín;2021;912
+        24903 Villamanín;2020;911
+        24904 Villamanín;2019;949
+        24905 Villamanín;2018;936
+        24906 Villamanín;2017;958
+        24907 Villamanín;2016;1001
+        24908 Villamanín;2015;1029
+        24909 Villamanín;2014;1053
+        24910 Villamanín;2013;1087
+        24911 Villamanín;2012;1109
+        24912 Villamanín;2011;1108
+        24913 Villamanín;2010;1109
+        24914 Villamanín;2009;1125
+        24915 Villamanín;2008;1111
+        24916 Villamanín;2007;1091
+        24917 Villamanín;2006;1147
+        24918 Villamanín;2005;1161
+        24919 Villamanín;2004;1161
+        24920 Villamanín;2003;1198
+        24212 Villamañán;2022;1076
+        24213 Villamañán;2021;1083
+        24214 Villamañán;2020;1102
+        24215 Villamañán;2019;1126
+        24216 Villamañán;2018;1155
+        24217 Villamañán;2017;1181
+        24218 Villamañán;2016;1178
+        24219 Villamañán;2015;1194
+        24220 Villamañán;2014;1218
+        24221 Villamañán;2013;1226
+        24222 Villamañán;2012;1282
+        24223 Villamañán;2011;1267
+        24224 Villamañán;2010;1282
+        24225 Villamañán;2009;1297
+        24226 Villamañán;2008;1299
+        24227 Villamañán;2007;1304
+        24228 Villamañán;2006;1295
+        24229 Villamañán;2005;1287
+        24230 Villamañán;2004;1285
+        24231 Villamañán;2003;1325
+        24213 Villamartín de Don Sancho;2022;156
+        24214 Villamartín de Don Sancho;2021;156
+        24215 Villamartín de Don Sancho;2020;159
+        24216 Villamartín de Don Sancho;2019;176
+        24217 Villamartín de Don Sancho;2018;152
+        24218 Villamartín de Don Sancho;2017;153
+        24219 Villamartín de Don Sancho;2016;155
+        24220 Villamartín de Don Sancho;2015;164
+        24221 Villamartín de Don Sancho;2014;148
+        24222 Villamartín de Don Sancho;2013;148
+        24223 Villamartín de Don Sancho;2012;157
+        24224 Villamartín de Don Sancho;2011;162
+        24225 Villamartín de Don Sancho;2010;152
+        24226 Villamartín de Don Sancho;2009;153
+        24227 Villamartín de Don Sancho;2008;166
+        24228 Villamartín de Don Sancho;2007;162
+        24229 Villamartín de Don Sancho;2006;142
+        24230 Villamartín de Don Sancho;2005;161
+        24231 Villamartín de Don Sancho;2004;180
+        24232 Villamartín de Don Sancho;2003;177
+        24214 Villamejil;2022;677
+        24215 Villamejil;2021;682
+        24216 Villamejil;2020;672
+        24217 Villamejil;2019;687
+        24218 Villamejil;2018;696
+        24219 Villamejil;2017;704
+        24220 Villamejil;2016;709
+        24221 Villamejil;2015;746
+        24222 Villamejil;2014;760
+        24223 Villamejil;2013;771
+        24224 Villamejil;2012;773
+        24225 Villamejil;2011;796
+        24226 Villamejil;2010;800
+        24227 Villamejil;2009;815
+        24228 Villamejil;2008;840
+        24229 Villamejil;2007;846
+        24230 Villamejil;2006;868
+        24231 Villamejil;2005;889
+        24232 Villamejil;2004;894
+        24233 Villamejil;2003;929
+        24215 Villamol;2022;144
+        24216 Villamol;2021;150
+        24217 Villamol;2020;152
+        24218 Villamol;2019;164
+        24219 Villamol;2018;162
+        24220 Villamol;2017;167
+        24221 Villamol;2016;169
+        24222 Villamol;2015;173
+        24223 Villamol;2014;175
+        24224 Villamol;2013;185
+        24225 Villamol;2012;182
+        24226 Villamol;2011;188
+        24227 Villamol;2010;193
+        24228 Villamol;2009;194
+        24229 Villamol;2008;204
+        24230 Villamol;2007;207
+        24231 Villamol;2006;216
+        24232 Villamol;2005;220
+        24233 Villamol;2004;222
+        24234 Villamol;2003;229
+        24216 Villamontán de la Valduerna;2022;701
+        24217 Villamontán de la Valduerna;2021;711
+        24218 Villamontán de la Valduerna;2020;720
+        24219 Villamontán de la Valduerna;2019;715
+        24220 Villamontán de la Valduerna;2018;736
+        24221 Villamontán de la Valduerna;2017;758
+        24222 Villamontán de la Valduerna;2016;777
+        24223 Villamontán de la Valduerna;2015;804
+        24224 Villamontán de la Valduerna;2014;822
+        24225 Villamontán de la Valduerna;2013;830
+        24226 Villamontán de la Valduerna;2012;858
+        24227 Villamontán de la Valduerna;2011;872
+        24228 Villamontán de la Valduerna;2010;893
+        24229 Villamontán de la Valduerna;2009;917
+        24230 Villamontán de la Valduerna;2008;941
+        24231 Villamontán de la Valduerna;2007;957
+        24232 Villamontán de la Valduerna;2006;970
+        24233 Villamontán de la Valduerna;2005;991
+        24234 Villamontán de la Valduerna;2004;1001
+        24235 Villamontán de la Valduerna;2003;1051
+        24217 Villamoratiel de las Matas;2022;131
+        24218 Villamoratiel de las Matas;2021;129
+        24219 Villamoratiel de las Matas;2020;135
+        24220 Villamoratiel de las Matas;2019;143
+        24221 Villamoratiel de las Matas;2018;158
+        24222 Villamoratiel de las Matas;2017;163
+        24223 Villamoratiel de las Matas;2016;155
+        24224 Villamoratiel de las Matas;2015;155
+        24225 Villamoratiel de las Matas;2014;152
+        24226 Villamoratiel de las Matas;2013;155
+        24227 Villamoratiel de las Matas;2012;156
+        24228 Villamoratiel de las Matas;2011;159
+        24229 Villamoratiel de las Matas;2010;160
+        24230 Villamoratiel de las Matas;2009;166
+        24231 Villamoratiel de las Matas;2008;167
+        24232 Villamoratiel de las Matas;2007;172
+        24233 Villamoratiel de las Matas;2006;175
+        24234 Villamoratiel de las Matas;2005;173
+        24235 Villamoratiel de las Matas;2004;181
+        24236 Villamoratiel de las Matas;2003;194
+        24218 Villanueva de las Manzanas;2022;499
+        24219 Villanueva de las Manzanas;2021;495
+        24220 Villanueva de las Manzanas;2020;494
+        24221 Villanueva de las Manzanas;2019;488
+        24222 Villanueva de las Manzanas;2018;485
+        24223 Villanueva de las Manzanas;2017;501
+        24224 Villanueva de las Manzanas;2016;505
+        24225 Villanueva de las Manzanas;2015;507
+        24226 Villanueva de las Manzanas;2014;506
+        24227 Villanueva de las Manzanas;2013;512
+        24228 Villanueva de las Manzanas;2012;522
+        24229 Villanueva de las Manzanas;2011;543
+        24230 Villanueva de las Manzanas;2010;545
+        24231 Villanueva de las Manzanas;2009;551
+        24232 Villanueva de las Manzanas;2008;555
+        24233 Villanueva de las Manzanas;2007;570
+        24234 Villanueva de las Manzanas;2006;547
+        24235 Villanueva de las Manzanas;2005;553
+        24236 Villanueva de las Manzanas;2004;558
+        24237 Villanueva de las Manzanas;2003;555
+        24219 Villaobispo de Otero;2022;537
+        24220 Villaobispo de Otero;2021;515
+        24221 Villaobispo de Otero;2020;532
+        24222 Villaobispo de Otero;2019;541
+        24223 Villaobispo de Otero;2018;563
+        24224 Villaobispo de Otero;2017;576
+        24225 Villaobispo de Otero;2016;590
+        24226 Villaobispo de Otero;2015;604
+        24227 Villaobispo de Otero;2014;634
+        24228 Villaobispo de Otero;2013;629
+        24229 Villaobispo de Otero;2012;653
+        24230 Villaobispo de Otero;2011;661
+        24231 Villaobispo de Otero;2010;651
+        24232 Villaobispo de Otero;2009;640
+        24233 Villaobispo de Otero;2008;638
+        24234 Villaobispo de Otero;2007;655
+        24235 Villaobispo de Otero;2006;657
+        24236 Villaobispo de Otero;2005;675
+        24237 Villaobispo de Otero;2004;665
+        24238 Villaobispo de Otero;2003;683
+        24902 Villaornate y Castro;2022;333
+        24903 Villaornate y Castro;2021;318
+        24904 Villaornate y Castro;2020;334
+        24905 Villaornate y Castro;2019;356
+        24906 Villaornate y Castro;2018;371
+        24907 Villaornate y Castro;2017;360
+        24908 Villaornate y Castro;2016;369
+        24909 Villaornate y Castro;2015;377
+        24910 Villaornate y Castro;2014;386
+        24911 Villaornate y Castro;2013;406
+        24912 Villaornate y Castro;2012;401
+        24913 Villaornate y Castro;2011;407
+        24914 Villaornate y Castro;2010;400
+        24915 Villaornate y Castro;2009;418
+        24916 Villaornate y Castro;2008;437
+        24917 Villaornate y Castro;2007;446
+        24918 Villaornate y Castro;2006;468
+        24919 Villaornate y Castro;2005;471
+        24920 Villaornate y Castro;2004;472
+        24921 Villaornate y Castro;2003;495
+        24221 Villaquejida;2022;808
+        24222 Villaquejida;2021;828
+        24223 Villaquejida;2020;827
+        24224 Villaquejida;2019;870
+        24225 Villaquejida;2018;896
+        24226 Villaquejida;2017;904
+        24227 Villaquejida;2016;914
+        24228 Villaquejida;2015;912
+        24229 Villaquejida;2014;932
+        24230 Villaquejida;2013;967
+        24231 Villaquejida;2012;979
+        24232 Villaquejida;2011;991
+        24233 Villaquejida;2010;984
+        24234 Villaquejida;2009;992
+        24235 Villaquejida;2008;1025
+        24236 Villaquejida;2007;1011
+        24237 Villaquejida;2006;1042
+        24238 Villaquejida;2005;1058
+        24239 Villaquejida;2004;1040
+        24240 Villaquejida;2003;1065
+        24222 Villaquilambre;2022;18589
+        24223 Villaquilambre;2021;18597
+        24224 Villaquilambre;2020;18684
+        24225 Villaquilambre;2019;18638
+        24226 Villaquilambre;2018;18676
+        24227 Villaquilambre;2017;18666
+        24228 Villaquilambre;2016;18583
+        24229 Villaquilambre;2015;18615
+        24230 Villaquilambre;2014;18456
+        24231 Villaquilambre;2013;18343
+        24232 Villaquilambre;2012;18124
+        24233 Villaquilambre;2011;18023
+        24234 Villaquilambre;2010;17631
+        24235 Villaquilambre;2009;17013
+        24236 Villaquilambre;2008;15996
+        24237 Villaquilambre;2007;15068
+        24238 Villaquilambre;2006;13891
+        24239 Villaquilambre;2005;12797
+        24240 Villaquilambre;2004;11741
+        24241 Villaquilambre;2003;10694
+        24223 Villarejo de Órbigo;2022;2930
+        24224 Villarejo de Órbigo;2021;2945
+        24225 Villarejo de Órbigo;2020;2975
+        24226 Villarejo de Órbigo;2019;2974
+        24227 Villarejo de Órbigo;2018;3001
+        24228 Villarejo de Órbigo;2017;3034
+        24229 Villarejo de Órbigo;2016;3061
+        24230 Villarejo de Órbigo;2015;3112
+        24231 Villarejo de Órbigo;2014;3194
+        24232 Villarejo de Órbigo;2013;3199
+        24233 Villarejo de Órbigo;2012;3244
+        24234 Villarejo de Órbigo;2011;3240
+        24235 Villarejo de Órbigo;2010;3244
+        24236 Villarejo de Órbigo;2009;3313
+        24237 Villarejo de Órbigo;2008;3285
+        24238 Villarejo de Órbigo;2007;3301
+        24239 Villarejo de Órbigo;2006;3225
+        24240 Villarejo de Órbigo;2005;3239
+        24241 Villarejo de Órbigo;2004;3290
+        24242 Villarejo de Órbigo;2003;3282
+        24224 Villares de Órbigo;2022;575
+        24225 Villares de Órbigo;2021;587
+        24226 Villares de Órbigo;2020;596
+        24227 Villares de Órbigo;2019;611
+        24228 Villares de Órbigo;2018;615
+        24229 Villares de Órbigo;2017;643
+        24230 Villares de Órbigo;2016;672
+        24231 Villares de Órbigo;2015;685
+        24232 Villares de Órbigo;2014;692
+        24233 Villares de Órbigo;2013;701
+        24234 Villares de Órbigo;2012;708
+        24235 Villares de Órbigo;2011;718
+        24236 Villares de Órbigo;2010;732
+        24237 Villares de Órbigo;2009;738
+        24238 Villares de Órbigo;2008;770
+        24239 Villares de Órbigo;2007;788
+        24240 Villares de Órbigo;2006;820
+        24241 Villares de Órbigo;2005;852
+        24242 Villares de Órbigo;2004;858
+        24243 Villares de Órbigo;2003;875
+        24225 Villasabariego;2022;1127
+        24226 Villasabariego;2021;1121
+        24227 Villasabariego;2020;1123
+        24228 Villasabariego;2019;1121
+        24229 Villasabariego;2018;1135
+        24230 Villasabariego;2017;1152
+        24231 Villasabariego;2016;1156
+        24232 Villasabariego;2015;1175
+        24233 Villasabariego;2014;1195
+        24234 Villasabariego;2013;1223
+        24235 Villasabariego;2012;1248
+        24236 Villasabariego;2011;1245
+        24237 Villasabariego;2010;1228
+        24238 Villasabariego;2009;1240
+        24239 Villasabariego;2008;1233
+        24240 Villasabariego;2007;1254
+        24241 Villasabariego;2006;1271
+        24242 Villasabariego;2005;1255
+        24243 Villasabariego;2004;1182
+        24244 Villasabariego;2003;1238
+        24226 Villaselán;2022;185
+        24227 Villaselán;2021;181
+        24228 Villaselán;2020;194
+        24229 Villaselán;2019;199
+        24230 Villaselán;2018;196
+        24231 Villaselán;2017;199
+        24232 Villaselán;2016;209
+        24233 Villaselán;2015;210
+        24234 Villaselán;2014;219
+        24235 Villaselán;2013;212
+        24236 Villaselán;2012;225
+        24237 Villaselán;2011;231
+        24238 Villaselán;2010;245
+        24239 Villaselán;2009;244
+        24240 Villaselán;2008;243
+        24241 Villaselán;2007;251
+        24242 Villaselán;2006;266
+        24243 Villaselán;2005;273
+        24244 Villaselán;2004;270
+        24245 Villaselán;2003;281
+        24227 Villaturiel;2022;1878
+        24228 Villaturiel;2021;1865
+        24229 Villaturiel;2020;1826
+        24230 Villaturiel;2019;1852
+        24231 Villaturiel;2018;1877
+        24232 Villaturiel;2017;1932
+        24233 Villaturiel;2016;1942
+        24234 Villaturiel;2015;1947
+        24235 Villaturiel;2014;1957
+        24236 Villaturiel;2013;1970
+        24237 Villaturiel;2012;1941
+        24238 Villaturiel;2011;1920
+        24239 Villaturiel;2010;1887
+        24240 Villaturiel;2009;1896
+        24241 Villaturiel;2008;1887
+        24242 Villaturiel;2007;1884
+        24243 Villaturiel;2006;1798
+        24244 Villaturiel;2005;1791
+        24245 Villaturiel;2004;1767
+        24246 Villaturiel;2003;1790
+        24228 Villazala;2022;619
+        24229 Villazala;2021;636
+        24230 Villazala;2020;647
+        24231 Villazala;2019;665
+        24232 Villazala;2018;673
+        24233 Villazala;2017;693
+        24234 Villazala;2016;726
+        24235 Villazala;2015;749
+        24236 Villazala;2014;751
+        24237 Villazala;2013;764
+        24238 Villazala;2012;779
+        24239 Villazala;2011;815
+        24240 Villazala;2010;829
+        24241 Villazala;2009;844
+        24242 Villazala;2008;869
+        24243 Villazala;2007;904
+        24244 Villazala;2006;924
+        24245 Villazala;2005;942
+        24246 Villazala;2004;962
+        24247 Villazala;2003;1008
+        24229 Villazanzo de Valderaduey;2022;385
+        24230 Villazanzo de Valderaduey;2021;392
+        24231 Villazanzo de Valderaduey;2020;397
+        24232 Villazanzo de Valderaduey;2019;419
+        24233 Villazanzo de Valderaduey;2018;429
+        24234 Villazanzo de Valderaduey;2017;440
+        24235 Villazanzo de Valderaduey;2016;461
+        24236 Villazanzo de Valderaduey;2015;475
+        24237 Villazanzo de Valderaduey;2014;490
+        24238 Villazanzo de Valderaduey;2013;508
+        24239 Villazanzo de Valderaduey;2012;520
+        24240 Villazanzo de Valderaduey;2011;531
+        24241 Villazanzo de Valderaduey;2010;537
+        24242 Villazanzo de Valderaduey;2009;549
+        24243 Villazanzo de Valderaduey;2008;580
+        24244 Villazanzo de Valderaduey;2007;616
+        24245 Villazanzo de Valderaduey;2006;609
+        24246 Villazanzo de Valderaduey;2005;634
+        24247 Villazanzo de Valderaduey;2004;665
+        24248 Villazanzo de Valderaduey;2003;672
+        24230 Zotes del Páramo;2022;412
+        24231 Zotes del Páramo;2021;419
+        24232 Zotes del Páramo;2020;423
+        24233 Zotes del Páramo;2019;427
+        24234 Zotes del Páramo;2018;439
+        24235 Zotes del Páramo;2017;443
+        24236 Zotes del Páramo;2016;456
+        24237 Zotes del Páramo;2015;454
+        24238 Zotes del Páramo;2014;467
+        24239 Zotes del Páramo;2013;482
+        24240 Zotes del Páramo;2012;485
+        24241 Zotes del Páramo;2011;488
+        24242 Zotes del Páramo;2010;491
+        24243 Zotes del Páramo;2009;495
+        24244 Zotes del Páramo;2008;496
+        24245 Zotes del Páramo;2007;520
+        24246 Zotes del Páramo;2006;556
+        24247 Zotes del Páramo;2005;591
+        24248 Zotes del Páramo;2004;592
+        24249 Zotes del Páramo;2003;617
